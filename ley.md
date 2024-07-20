@@ -47,12 +47,12 @@ El Estado debe crear formas para la participación directa y activa de la socied
 **Artículo 7**. El Estado, la familia y la sociedad deben asegurar, con Prioridad Absoluta, todos los derechos y garantías de los niños, niñas y adolescentes. La prioridad absoluta es imperativa para todos y comprende:
 
 a) Especial preferencia y atención de los niños, niñas y adolescentes en la formulación y ejecución de todas las políticas públicas.
-b) Asignación privilegiada y preferente, en el presupuesto, de los recursos públicos para las áreas relacionadas con los derechos y garantías de los niños, niñas y adolescentes y para las políticas y programas de protección integral de niños, niñas y adolescentes.
-c) Precedencia de los niños, niñas y adolescentes en el acceso y la atención a los servicios públicos.
-d) Primacía de los niños, niñas y adolescentes en la protección y socorro en cualquier circunstancia.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+b) Asignación privilegiada y preferente, en el presupuesto, de los recursos públicos para las áreas relacionadas con los derechos y garantías de los niños, niñas y adolescentes y para las políticas y programas de protección integral de niños, niñas y adolescentes.
+
+c) Precedencia de los niños, niñas y adolescentes en el acceso y la atención a los servicios públicos.
+
+d) Primacía de los niños, niñas y adolescentes en la protección y socorro en cualquier circunstancia.
 
 ##### Interés Superior del Niños, Niñas y Adolescentes
 
@@ -61,9 +61,13 @@ d) Primacía de los niños, niñas y adolescentes en la protección y socorro en
 **Parágrafo Primero:** Para determinar el interés superior de niños, niñas y adolescentes en una situación concreta se debe apreciar:
 
 a) La opinión de los niños, niñas y adolescentes
+
 b) La necesidad de equilibrio entre los derechos y garantías de los niños, niñas y adolescentes y sus deberes.
+
 c) La necesidad de equilibrio entre las exigencias del bien común y los derechos y garantías del niño, niña o adolescente.
+
 d) La necesidad de equilibrio entre los derechos de las personas y los derechos y garantías del niño, niña o adolescente.
+
 e) La condición específica de los niños, niñas y adolescentes como personas en desarrollo.
 
 **Parágrafo Segundo:** En aplicación del Interés Superior de Niños, Niñas y Adolescentes, cuando exista conflicto entre los derechos e intereses de los niños, niñas y adolescentes frente a otros derechos e intereses igualmente legítimos, prevalecerán los primeros.
@@ -91,9 +95,13 @@ Los funcionarios y funcionarias administrativos y judiciales, así como las auto
 **Artículo 12**. Los derechos y garantías de los niños, niñas y adolescentes reconocidos y consagrados en esta Ley son inherentes a la persona humana, en consecuencia son:
 
 a)  De orden público;
+
 b)  Intransigibles;
+
 c)  Irrenunciables;
+
 d)  Interdependientes entre si;
+
 e)  Indivisibles.
 
 ##### Ejercicio progresivo de los derechos y garantías
@@ -195,7 +203,9 @@ El Estado debe asegurar programas o medidas dirigidos a garantizar la determinac
 El Estado, con la activa participación de la sociedad, debe asegurarles:
 
 a)  Programas de asistencia integral, rehabilitación e integración.
+
 b)  Programas de atención, orientación y asistencia dirigidos a su familia.
+
 c)  Campañas permanentes de difusión, orientación y promoción social dirigidas a la comunidad sobre su condición específica, para su atención y relaciones con ellos.
 
 ##### Derecho a un nivel de vida adecuado
@@ -203,7 +213,9 @@ c)  Campañas permanentes de difusión, orientación y promoción social dirigid
 **Artículo 30**. Todos los niños, niñas y adolescentes tienen derecho a un nivel de vida adecuado que asegure su desarrollo integral. Este derecho comprende, entre otros, el disfrute de:
 
 a)  Alimentación nutritiva y balanceada, en calidad y cantidad que satisfaga las normas de la dietética, la higiene y la salud.
+
 b)  Vestido apropiado al clima y que proteja la salud.
+
 c)  Vivienda digna, segura, higiénica y salubre, con acceso a los servicios públicos esenciales.
 
 **Parágrafo Primero:** El padre, la madre, representantes o responsables tienen la obligación principal de garantizar, dentro de sus posibilidades y medios económicos, el disfrute pleno y efectivo de este derecho. El Estado, a través de políticas públicas, debe asegurar condiciones que permitan al padre y a la madre cumplir con esta responsabilidad, inclusive mediante asistencia material y programas de apoyo directo a los niños, niñas, adolescentes y sus familias.
@@ -285,8 +297,11 @@ El padre, la madre, representantes o responsables tienen el derecho y el deber d
 **Artículo 39**. Todos los niños, niñas y adolescentes tienen derecho a la libertad de tránsito, sin más restricciones que las establecidas en la ley y las derivadas de las facultades legales que corresponden a su padre, madre, representantes o responsables. Este derecho comprende la libertad de:
 
 a) Circular en el territorio nacional.
+
 b) Permanecer, salir e ingresar al territorio nacional.
+
 c) Cambiar de domicilio o residencia en el territorio nacional.
+
 d) Permanecer en los espacios públicos y comunitarios.
 
 ##### Protección contra el traslado ilícito
@@ -386,9 +401,13 @@ El Estado debe promover el ejercicio de este derecho, entre otras formas, brinda
 **Artículo 57**. La disciplina escolar debe ser administrada de forma acorde con los derechos, garantías y deberes de los niños, niñas y adolescentes. En consecuencia:
 
 a) Debe establecerse claramente en el reglamento disciplinario de la escuela, plantel o instituto de educación los hechos que son susceptibles de sanción, las sanciones aplicables y el procedimiento para imponerlas.
+
 b) Todos los niños, niñas y adolescentes deben tener acceso y ser informados e informadas oportunamente, de los reglamentos disciplinarios correspondientes.
+
 c) Antes de la imposición de cualquier sanción debe garantizarse a todos los niños, niñas y adolescentes el ejercicio de los derechos a opinar y a la defensa y, después de haber sido impuesta, se les debe garantizar la posibilidad de impugnarla ante una autoridad superior e imparcial.
+
 d) Se prohíben las sanciones corporales, así como las colectivas.
+
 e) Se prohíben las sanciones por causa de embarazo de una niña o adolescente.
 
 El retiro o la expulsión del niño, niña o adolescente de la escuela, plantel o instituto de educación sólo se impondrá por las causas expresamente establecidas en la ley, mediante el procedimiento administrativo aplicable. Los niños, niñas y adolescentes tienen derecho a ser reinscritos o reinscritas en la escuela, plantel o instituto donde reciben educación, salvo durante el tiempo que hayan sido sancionados o sancionadas con expulsión.
@@ -510,10 +529,15 @@ Ningún programa televisivo o radiofónico será presentado o exhibido sin aviso
 **Artículo 79**. Se prohíbe:
 
 a) Admitir a niños, niñas y adolescentes en espectáculos o en salas de exhibición cinematográficas, videográficas, televisivas, multimedia u otros espectáculos similares, así como en lugares públicos o privados donde se exhiban mensajes y producciones cuando éstos hayan sido clasificados como no adecuados para su edad.
+
 b) Vender o facilitar de cualquier forma a niños, niñas y adolescentes o exhibir públicamente, por cualquiera de los multimedia existentes o por crearse, libros, revistas, programas y mensajes audiovisuales, información y datos en redes que sean pornográficos, presenten apología a la violencia o al delito, promuevan o inciten al uso de tabaco, sustancias alcohólicas, estupefacientes o psicotrópicas o que atenten contra su integridad personal o su salud mental o moral.
+
 c) Difundir por cualquier medio de información o comunicación, durante la programación dirigida a los niños, niñas y adolescentes o a todo público, programas, mensajes, publicidad, propaganda o promociones de cualquier índole, que promuevan el terror en los niños, niñas y adolescentes, que atenten contra la convivencia humana o la nacionalidad, o que los inciten a la deformación del lenguaje, irrespeto de la dignidad de las personas, indisciplina, odio, discriminación o racismo.
+
 d) Propiciar o permitir la participación de niños, niñas y adolescentes en espectáculos públicos o privados, obras de teatro y artísticas, películas, videos, programas televisivos, radiofónicos y multimedia, o en sus ensayos, que sean contrarios a las buenas costumbres o puedan afectar su salud, integridad o vida.
+
 e) Utilizar a niños, niñas y adolescentes en mensajes comerciales donde se exalte el vicio, malas costumbres, falsos valores, se manipule la información con fines contrarios al respeto a la dignidad de las personas o se promueva o incite al uso o adquisición de productos nocivos para la salud o aquellos considerados innecesarios o suntuarios.
+
 f) Alojar a un niño, niña o adolescente no acompañado por su padre, madre, representantes o responsables o sin la autorización escrita de éstos o de autoridad competente en hotel, pensión, motel o establecimientos semejantes.
 
 ##### Derecho a opinar y a ser oído y oída
@@ -521,6 +545,7 @@ f) Alojar a un niño, niña o adolescente no acompañado por su padre, madre, re
 **Artículo 80**. Todos los niños, niñas y adolescentes tienen derecho a:
 
 a) Expresar libremente su opinión en los asuntos en que tengan interés.
+
 b) Que sus opiniones sean tomadas en cuenta en función de su desarrollo.
 
 Este derecho se extiende a todos los ámbitos en que se desenvuelven los niños, niñas y adolescentes, entre ellos: al ámbito estatal, familiar, comunitario, social, escolar, científico, cultural, deportivo y recreacional.
@@ -552,6 +577,7 @@ El Estado, las familias y la sociedad deben crear y fomentar oportunidades de pa
 **Artículo 84**. Todos los niños, niñas y adolescentes tienen derecho de asociarse libremente con otras personas, con fines sociales, culturales, deportivos, recreativos, religiosos, políticos, económicos, laborales o de cualquier otra índole, siempre que sean de carácter lícito. Este derecho comprende, especialmente, el derecho a:
 
 a) Formar parte de asociaciones, inclusive de sus órganos directivos.
+
 b) Promover y constituir asociaciones conformadas exclusivamente por niños, niñas, adolescentes o ambos, de conformidad con la ley.
 
 **Parágrafo Primero:** Se reconoce a todos los niños, niñas y adolescentes el ejercicio personal y directo de este derecho, sin más límites que los derivados de las facultades legales que corresponden a su padre, madre, representantes o responsables.
@@ -599,15 +625,21 @@ Los trabajadores y las trabajadoras de los servicios y centros de salud, de las 
 **Artículo 92**. Está prohibido vender o facilitar, de cualquier forma, a los niños, niñas y adolescentes:
 
 a) Tabaco.
+
 b) Sustancias estupefacientes y psicotrópicas, incluidos los inhalantes.
+
 c) Sustancias alcohólicas.
+
 d) Armas, municiones y explosivos.
+
 e) Fuegos artificiales y similares.
+
 f) Informaciones o imágenes inapropiadas para su edad.
 
 **Parágrafo Único**. Se prohíbe a los niños, niñas y adolescentes ingresar a:
 
 a) Bares y lugares similares.
+
 b) Casinos, casas de juegos y lugares donde se realicen apuestas.
 
 ##### Deberes de los niños, niñas y adolescentes
@@ -615,13 +647,21 @@ b) Casinos, casas de juegos y lugares donde se realicen apuestas.
 **Artículo 93**. Todos los niños, niñas y adolescentes tienen los siguientes deberes:
 
 a) Honrar a la patria y sus símbolos.
+
 b) Respetar, cumplir y obedecer todas las disposiciones del ordenamiento jurídico y las órdenes legítimas que, en la esfera de sus atribuciones, dicten los órganos del poder público.
+
 c) Respetar los derechos y garantías de las demás personas.
+
 d) Honrar, respetar y obedecer a su padre, madre, representantes o responsables, siempre que sus órdenes no violen sus derechos y garantías o contravengan al ordenamiento jurídico.
+
 e) Ejercer y defender activamente sus derechos.
+
 f) Cumplir sus obligaciones en materia de educación.
+
 g) Respetar la diversidad de conciencia, pensamiento, religión y culturas.
+
 h) Conservar el medio ambiente.
+
 i) Cualquier otro deber que sea establecido en la ley.
 
 ### Capítulo III: Derecho a la Protección en Materia de Trabajo
@@ -663,16 +703,27 @@ El Estado, las familias, la sociedad, los patronos y patronas deben velar para q
 **Parágrafo Primero:** Este Registro contendrá:
 
 a) Nombre del o de la adolescente.
+
 b) Fecha de nacimiento.
+
 c) Lugar de habitación.
+
 d) Nombre de su padre, madre, representante o responsable.
+
 e) Escuela, grado de escolaridad y horario escolar del o de la adolescente.
+
 f) Lugar, tipo y horario de trabajo.
+
 g) Fecha de ingreso.
+
 h) Indicación del patrono o patrona, si es el caso.
+
 i) Autorización, si fuere el caso.
+
 j) Fecha de ingreso al trabajo.
+
 k) Examen médico.
+
 l) Cualquier otro dato que el consejo de protección de niños, niñas y adolescentes o el ministerio del poder popular con competencia en materia de protección integral de niños; niñas y adolescentes, considere necesario para la protección del adolescente trabajador o de la adolescente trabajadora, en el ámbito de su competencia.
 
 **Parágrafo Segundo:** Los datos de este Registro serán enviados, mensualmente, al ministerio del poder popular con competencia en la materia, a efectos de la inspección y supervisión del trabajo.
@@ -682,13 +733,21 @@ l) Cualquier otro dato que el consejo de protección de niños, niñas y adolesc
 **Artículo 99**. La inscripción en el Registro de Adolescentes Trabajadores y Trabajadoras da derecho a una credencial que identifique al adolescente como trabajador o trabajadora, con vigencia de un año y el cual contendrá:
 
 a) Nombre del o de la adolescente.
+
 b) Foto del o de la adolescente.
+
 c) Fecha de nacimiento.
+
 d) Lugar de habitación.
+
 e) Escuela, grado de escolaridad y horario escolar.
+
 f) Nombre del padre, de la madre, representante o responsable.
+
 g) Lugar, tipo y horario de trabajo.
+
 h) Fecha de ingreso al trabajo.
+
 i) Fecha de vencimiento de la credencial.
 
 ##### Capacidad laboral
@@ -792,12 +851,19 @@ Este Sistema funciona a través de un conjunto articulado de acciones intersecto
 **Artículo 118**. Para el logro de sus objetivos, el Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes cuenta con los siguientes medios:
 
 a) Políticas y programas de protección y atención.
+
 b) Medidas de protección.
+
 c) Órganos administrativos y judiciales de protección.
+
 d) Entidades y servicios de atención.
+
 e) Sanciones.
+
 f) Procedimientos.
+
 g) Acción judicial de protección.
+
 h) Recursos económicos.
 
 El Estado y la sociedad tienen la obligación compartida de garantizar la formulación, ejecución y control de estos medios y es un derecho de niños, niñas y adolescentes exigir el cumplimiento de esta garantía.
@@ -807,13 +873,21 @@ El Estado y la sociedad tienen la obligación compartida de garantizar la formul
 **Artículo 119**. El Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes, está integrado por:
 
 a) Ministerio del poder popular con competencia en materia de protección integral de niños, niñas y adolescentes.
+
 b) Consejos de Derechos de Niños, Niñas y Adolescentes y Consejos de Protección de Niños, Niñas y Adolescentes.
+
 c) Tribunales de Protección de Niños, Niñas y Adolescentes y Sala de Casación Social del Tribunal Supremo de Justicia.
+
 d) Ministerio Público.
+
 e) Defensoría del Pueblo.
+
 f) Servicio Autónomo de la Defensa Pública.
+
 g) Entidades de Atención.
+
 h) Defensorías de Niños, Niñas y Adolescentes.
+
 i) Los consejos comunales y demás formas de organización popular.
 
 ### Capítulo II: Políticas, Programas y Proyectos de Protección Integral de Niños, Niñas y Adolescentes
@@ -845,16 +919,27 @@ Esta política debe fijar las orientaciones y directrices en materias tales como
 **Artículo 124**. Con el objeto de desarrollar políticas y permitir la ejecución de las medidas se establecen, con carácter indicativo, los siguientes programas:
 
 a) De asistencia: para satisfacer las necesidades de los niños, niñas, adolescentes y sus familias, que se encuentren en situación de pobreza o afectados por desastres naturales y calamidades.
+
 b) De apoyo u orientación: para estimular la integración del niño, niña y adolescente en el seno de su familia y de la sociedad, así como guiar el desarrollo armónico de las relaciones entre los miembros de la familia.
+
 c) De colocación familiar: para organizar la colocación de niños, niñas y adolescentes en familias sustitutas mediante un proceso de selección, capacitación y apoyo a quienes se dispongan a incorporarse en el programa.
+
 d) De rehabilitación y prevención: para atender a los niños, niñas y adolescentes que sean objeto de torturas, maltratos, explotación, abuso, discriminación, crueldad, negligencia u opresión; tengan necesidades especiales tales como discapacitados o discapacitadas y superdotados o superdotados; sean consumidores de sustancias alcohólicas, estupefacientes o psicotrópicas; padezcan de enfermedades infecto-contagiosas; tengan embarazo precoz; así como para evitar la aparición de estas situaciones.
+
 e) De identificación: para atender las necesidades de inscripción de los niños, niñas y adolescentes en el Registro del Estado Civil y de obtener sus documentos de identidad.
+
 f) De formación, adiestramiento y capacitación: para satisfacer las necesidades de capacitación de las personas que se dediquen a la atención de niños, niñas y adolescentes; así como las necesidades de adiestramiento y formación de los niños, niñas o adolescentes, su padre, madre, representantes o responsables.
+
 g) De localización: para atender las necesidades de los niños, niñas y adolescentes de localizar a su padre, madre, familiares, representantes o responsables; que se encuentren extraviados, desaparecidos o hayan sido de alguna forma separados o separadas del seno de su familia o de la entidad de atención en la que se encuentran, o les hayan violado su derecho a la identidad.
+
 h) De abrigo: para atender a los niños, niñas y adolescentes que lo necesiten, de acuerdo a lo previsto en el artículo 127. de esta ley.
+
 i) Comunicacionales: para garantizar la oferta suficiente de información, mensajes y programas dirigidos a niños, niñas y adolescentes divulgados por cualquier medio comunicacional o a través de redes y a que esta oferta contribuya al goce efectivo de los derechos a la educación, salud, recreación, participación, información y a un entorno sano de todos los niños, niñas y adolescentes, estimulando su desarrollo integral.
+
 j) Socio-educativos: para la ejecución de las sanciones impuestas a los y las adolescentes por infracción a la ley penal.
+
 k) Promoción y defensa: para permitir que los niños, niñas y adolescentes conozcan sus derechos y los medios para defenderlos.
+
 l) Culturales: para la preparación artística, respeto y difusión de los valores autóctonos y de la cultura universal.
 
 ##### Definición
@@ -870,14 +955,23 @@ La amenaza o violación a que se refiere este artículo puede provenir de la acc
 **Artículo 126**. Una vez comprobada la amenaza o violación a que se refiere el artículo anterior, la autoridad competente puede aplicar las siguientes medidas de protección:
 
 a)  Inclusión del niño, niña o adolescente y su familia, en forma conjunta o separada, según el caso, en uno o varios de los programas a que se refiere el Artículo 124. de esta Ley.
+
 b)  Orden de matrícula obligatoria o permanencia, según sea el caso, en escuelas, planteles o institutos de educación.
+
 c)  Cuidado en el propio hogar del niño, niña o adolescente, orientando y apoyando al padre, a la madre, representantes o responsables en el cumplimiento de sus obligaciones, conjuntamente con el seguimiento temporal de la familia y del niño, niña o adolescente, a través de un programa.
+
 d)  Declaración del padre, de la madre, representantes o responsables, según sea el caso, reconociendo responsabilidad en relación al niño, niña o adolescente.
+
 e)  Orden de tratamiento médico, psicológico o psiquiátrico, ambulatorio o en régimen de internación en centro de salud, al niño, niña o al adolescente que así lo requiera o a su padre, madre, representantes o responsables, en forma individual o conjunta, según sea el caso.
+
 f)  Intimación al padre, a la madre, representantes, responsables o funcionarios y funcionarias de identificación a objeto de que procesen y regularicen, con estipulación de un plazo para ello, la falta de presentación e inscripción ante el Registro del Estado Civil o las ausencias o deficiencias que presenten los documentos de identidad de niños, niñas y adolescentes, según sea el caso.
+
 g)  Separación de la persona que maltrate a un niño, niña o adolescente de su entorno.
+
 h)  Abrigo.
+
 i)  Colocación familiar o en entidad de atención.
+
 j)   Adopción.
 
 Se podrá aplicar otras medidas de protección si la particular naturaleza de la situación la hace idónea a la preservación o restitución del derecho, dentro de los límites de competencia del Consejo de Protección de Niños, Niñas y Adolescentes que las imponga.
@@ -923,15 +1017,25 @@ Estas medidas deben ser revisadas, por lo menos cada seis meses a partir del mom
 **Artículo 133**. El ministerio del poder popular con competencia en materia de protección integral de niños, niñas y adolescentes es el órgano rector del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes, siendo sus atribuciones las siguientes:
 
 a) Definir las políticas del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes.
+
 b) Aprobar el Plan Nacional para la Protección Integral de Niños, Niñas y Adolescentes.
+
 c) Aprobar los lineamientos y directrices generales, de carácter imperativo y obligatorio cumplimiento, del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes, presentadas a su consideración por el Consejo Nacional de Derechos de Niños, Niñas y Adolescentes.
+
 d) Efectuar el seguimiento y la evaluación de las políticas, planes y programas en materia de protección integral de niños, niñas y adolescentes.
+
 e) Revisar y proponer las modificaciones a la normativa legal aplicable, a los fines de garantizar la operatividad del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes.
+
 f) Establecer y desarrollar formas de interacción y coordinación conjunta entre entes públicos, privados y comunitarios, a los fines de garantizar la integralidad de las políticas y planes del Sistema.
+
 g) Garantizar el cumplimiento de las competencias y obligaciones del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes en las materias de su competencia, así como las de los entes u organismos bajo su adscripción.
+
 h) Ejercer los mecanismos de Tutela que se deriven de la ejecución de la administración y gestión de los entes u organismos bajo su adscripción.
+
 i) Requerir del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes la información administrativa y financiera de su gestión.
+
 j) Elaborar el Reglamento de la presente Ley.
+
 k) Las demás establecidas en la ley y por el Ejecutivo Nacional.
 
 ##### El Consejo Nacional de Derechos de Niños, Niñas y Adolescentes.
@@ -945,9 +1049,13 @@ El Consejo Nacional de Derechos de Niños, Niñas y Adolescentes, tendrá como d
 **Artículo 135**. En el ejercicio de sus funciones el Consejo Nacional de Derechos de Niños, Niñas y Adolescentes debe observar los siguientes principios:
 
 a) Corresponsabilidad del Estado y de la sociedad en la defensa de los derechos de niños, niñas y adolescentes.
+
 b) Respeto y promoción de la interrelación administrativa entre los estados y los municipios, en lo relativo a la protección de niños, niñas y adolescentes.
+
 c) Fortalecimiento equilibrado de los consejos comunales, en materia de protección de niños, niñas y adolescentes.
+
 d) Acción coordinada del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes con los demás integrantes del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes.
+
 e) Uniformidad en la formulación de la normativa.
 
 ##### Participación ciudadana
@@ -965,23 +1073,41 @@ El Consejo Nacional de Derechos de Niños, Niñas y Adolescentes, deberá presen
 **Artículo 137**. Son atribuciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes:
 
 a) Presentar a consideración del órgano rector la propuesta de política del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes, así como la propuesta de Plan Nacional para la Protección Integral de Niños, Niñas y Adolescentes y su presupuesto.
+
 b) Presentar a consideración del órgano rector las propuestas de lineamientos generales que deben cumplir los Consejos Municipales de Derechos y Consejos de Protección de Niños, Niñas y Adolescentes, en cuanto a su organización, funcionamiento y ejercicio de sus atribuciones.
+
 c) Presentar a consideración del órgano rector las propuestas de directrices generales que deben cumplir las Defensorías de Niños, Niñas y Adolescentes, entidades de atención, programas de protección y otros servicios.
+
 d) Coordinar y brindar apoyo técnico a los integrantes del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes.
+
 e) Velar por el desarrollo equilibrado de estados y municipios en materia de protección integral de niños, niñas y adolescentes.
+
 f) Promover la divulgación de los derechos, garantías y deberes de niños, niñas y adolescentes y ser vocero de sus intereses e inquietudes.
+
 g) Crear entidades de atención y ejecutar programas de protección.
+
 h) Promover, acompañar y supervisar a las entidades de atención y programas de protección, especialmente a través de las comunidades organizadas.
+
 i) Mantener, organizar, dirigir y supervisar el Registro Nacional de Defensorías, Entidades de Atención y Programas de Protección e inscribir aquellos de cobertura nacional y regional.
+
 j) Conocer, evaluar y opinar sobre los planes nacionales intersectoriales que elaboren los órganos competentes, así como de las políticas y acciones públicas y privadas referidas a niños, niñas y adolescentes.
+
 k) Solicitar a las autoridades competentes acciones y adjudicación de recursos para la solución de problemas específicos que afecten a niños, niñas y adolescentes.
+
 l) Denunciar ante los órganos competentes la omisión o prestación irregular de los servicios públicos nacionales, estadales y municipales, según sea el caso, prestados por entes públicos o privados, que amenacen o violen los derechos y garantías de niños, niñas y adolescentes.
+
 m) Conocer casos de amenazas o violaciones a los derechos colectivos o difusos de los niños, niñas y adolescentes.
+
 n) Intentar de oficio o por denuncia la acción de protección, así como solicitar la nulidad de la normativa o de actos administrativos cuando éstos violen o amenacen los derechos y garantías de niños, niñas y adolescentes.
+
 o) Brindar protección especial a los derechos y garantías específicos de los niños, niñas y adolescentes de los pueblos y comunidades indígenas y afrodescendientes.
+
 p) Ejercer con relación al Fondo Nacional de Protección de Niños, Niñas y Adolescentes la atribución que establece el artículo 339. de esta Ley.
+
 q) Ejercer las competencias de las Oficinas de Adopciones Estadales a través de sus Direcciones Estadales.
+
 r) Dictar su Reglamento Interno.
+
 s) Las demás que ésta u otras leyes le asignen, así como sus reglamentos.
 
 ##### Junta Directiva
@@ -991,11 +1117,17 @@ s) Las demás que ésta u otras leyes le asignen, así como sus reglamentos.
 Son atribuciones de la Junta Directiva del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes:
 
 a) Aprobar las propuestas de política del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes, del Plan Nacional para la Protección Integral de Niños, Niñas y Adolescentes, y del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes, a ser presentados o presentadas a la consideración del órgano rector.
+
 b) Aprobar la propuesta de presupuesto del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes, a ser presentada a la consideración del órgano rector.
+
 c)  Aprobar las propuestas de lineamientos y directrices generales, a ser presentadas a consideración del órgano rector.
+
 d) Aprobar los planes de acción y aplicación del Fondo Nacional de Protección de Niños, Niñas y Adolescentes.
+
 e) Aprobar el Reglamento Interno del Consejo.
+
 f) Debatir las materias de interés que presente su Presidente o Presidenta o cualquiera de sus integrantes.
+
 g) Las demás que ésta u otras leyes le asignen, así como sus reglamentos.
 
 ##### Presidente o Presidenta
@@ -1009,74 +1141,96 @@ Adolescentes:
  
 a) Ejercer la máxima autoridad ejecutiva y administrativa del Consejo. 
  
+
 b) Representar al Consejo. 
  
+
 c)  Ejercer  en  el  Consejo  la  máxima  autoridad  en  materia  de  personal,  de  conformidad  con  lo 
 previsto en la legislación en materia funcionarial y del trabajo. 
  
+
 d) Administrar el presupuesto del Consejo, teniendo la cualidad de cuentadante. 
  
+
 e) Convocar, dirigir y participar en las sesiones de la Junta Directiva. 
  
+
 f)  Elaborar  y  presentar  a  la  consideración  de  la  Junta  Directiva  las  propuestas  de  políticas  del 
 Sistema  Rector  Nacional  para  la  Protección  Integral  de  Niños,  Niñas  y  Adolescentes;  Niñas  y 
 Adolescentes del Consejo, a ser presentados o presentadas a la consideración del órgano rector. 
  
+
 g)  Elaborar  y  elevar  a  la  consideración  de  la  Junta  Directiva  la  propuesta  de  presupuesto  del 
 Consejo, a ser presentado a la consideración del órgano rector. 
  
+
 h)  Elaborar  y  elevar  a  la  consideración  de  la  Junta  Directiva  las  propuestas  de  lineamientos  y 
 directrices generales, a ser presentados o presentadas a consideración del órgano rector. 
  
+
 i) Elaborar y presentar a la consideración de la Junta Directiva los planes de acción y aplicación del 
 Fondo Nacional de Protección de Niños, Niñas y Adolescentes. 
  
+
 j)  Ejercer  con  relación  al  Fondo  Nacional  de  Protección  de  Niños,  Niñas  y  Adolescentes  la 
 atribución  que  establece  el  artículo  339  de  esta  Ley,  así  como  designar  a  su  administrador  o 
 administradora. 
  
+
 k) Elaborar y presentar a la consideración de la Junta Directiva la propuesta de Reglamento Interno 
 del Consejo. 
  
+
 l) Promover la  divulgación  de los derechos, garantías  y deberes de  niños, niñas  y adolescentes  y 
 ser vocero de sus intereses e inquietudes. 
  
+
 m) Crear entidades de atención y ejecutar programas de protección. 
 
 n)  Promover,  acompañar  y  supervisar  a  las  entidades  de  atención  y  programas  de  protección, 
 especialmente a través de las comunidades organizadas. 
  
+
 o)  Mantener,  organizar,  dirigir  y  supervisar  el  Registro  Nacional  de  Defensorías,  entidades  de 
 atención  y  programas,  de  protección  de  niños,  niñas  y  adolescentes  e  inscribir  aquellos  de 
 cobertura nacional y regional. 
  
+
 p) Conocer, evaluar y opinar sobre los planes nacionales intersectoriales que elaboren los órganos 
 competentes,  así  como  de  las  políticas  y  acciones  públicas  y  privadas  referidas  a  niños,  niñas  y 
 adolescentes. 
  
+
 q) Solicitar a las autoridades competentes acciones y adjudicación de recursos para la solución de 
 problemas específicos que afecten a niños, niñas y adolescentes. 
  
+
 r)  Denunciar  ante  los  órganos  competentes  la  omisión  o  prestación  irregular  de  los  servicios 
 públicos, prestados por entes públicos o privados, que amenacen o violen los derechos y garantías 
 de niños, niñas y adolescentes. 
  
+
 s)  Conocer  casos  de  amenazas  o  violaciones  a  los  derechos  colectivos  o  difusos  de  los  niños, 
 niñas y adolescentes. 
  
+
 t)  Intentar  de  oficio  o  por  denuncia  la  acción  de  protección,  así  como  solicitar  la  nulidad  de  la 
 normativa o de actos administrativos cuando éstos violen o amenacen los derechos y garantías de 
 niños, niñas y adolescentes. 
  
+
 u)  Brindar  protección  especial  a  los  derechos  y  garantías  específicos  de  los  niños,  niñas  y 
 adolescentes de los pueblos y comunidades indígenas y afrodescendientes. 
  
+
 v) Nombrar y remover a los directores y directoras de las Direcciones Regionales de Derechos de 
 Niños, Niñas y Adolescentes. 
  
+
 w)  Elaborar  y  presentar  para  la  aprobación  por  parte  de  la  Junta  Directiva,  el  proyecto  de 
 Reglamento Interno. 
  
+
 x) Las demás que ésta u otras leyes le asignen, así como sus reglamentos.
 
 ##### Oficina de adopciones
@@ -1084,13 +1238,21 @@ x) Las demás que ésta u otras leyes le asignen, así como sus reglamentos.
 **Artículo 139**. El Consejo Nacional de Derechos de Niños, Niñas y Adolescentes, tendrá una Oficina Nacional de Adopciones que ejercerá las siguientes atribuciones:
 
 a) Procesar las solicitudes de adopción internacional que hagan tanto personas residentes en Venezuela, que se propongan adoptar en otro país, como aquéllas que tengan su residencia en el exterior, y se proponga adoptar en Venezuela.
+
 b) Analizar y decidir sobre casos de niños, niñas y adolescentes con posibilidades de ser adoptados o adoptadas internacionalmente, haciendo para ello los estudios técnicos necesarios y dejando constancia de todas las actuaciones en expediente personalizado, incluidas aquéllas mediante las cuales se constató que la adopción internacional responde al interés superior de niño, niña y adolescente.
+
 c) Analizar y decidir sobre casos de posibles adoptantes internacionales, haciendo para ello los estudios necesarios y dejando constancia de todas las actuaciones en expediente personalizado.
+
 d) Llevar registro de los casos a los que se refieren los literales b) y c).
+
 e) Velar porque en materia de adopción internacional se tomen las medidas apropiadas para prevenir beneficios materiales violatorios de los derechos y garantías consagrados en esta Ley.
+
 f) Brindar asesoramiento pre y post adoptivo.
+
 g) Realizar el seguimiento técnico de las adopciones internacionales, solicitadas en otro país por personas residentes en Venezuela.
+
 h) Preservar la confidencialidad de toda información que se encuentre en los respectivos expedientes de adopción, independientemente de que la misma sea concedida o no.
+
 i) Producir y evaluar estadísticas nacionales en materia de adopción, tanto nacional como internacional.
 
 ##### Control Tutelar
@@ -1112,12 +1274,19 @@ Estos mecanismos de control tutelar no excluyen cualquier otro que sea necesario
 **Artículo 145**. En cada Dirección Regional del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes debe constituirse una oficina estadal de adopciones que tendrá las siguientes atribuciones:
 
 a) Procesar solicitudes de adopción nacional.
+
 b) Realizar los estudios técnicos necesarios para determinar, en cada caso, que las condiciones de la adopción respondan a las características de los niños, niñas y adolescentes a ser adoptados que se encuentren en el respectivo estado.
+
 c) Analizar y decidir sobre casos de posibles adoptantes nacionales, haciendo los estudios necesarios para ello y dejando constancia de todas las actuaciones en expediente personalizado.
+
 d) Llevar registro de los casos a que se refieren los literales b) y c), así como de los niños, niñas y adolescentes a ser adoptados o adoptadas a adopción nacional que se encuentren en el respectivo estado, de acuerdo con la información que le suministren los consejos de protección de niños, niñas y adolescentes, los tribunales y entidades de atención de niños, niñas y adolescentes.
+
 e) Velar porque en materia de adopción nacional se tomen las medidas apropiadas para prevenir que se produzcan beneficios materiales violatorios de los derechos y garantías consagrados en esta ley.
+
 f) Brindar asesoramiento pre y post adoptivo.
+
 g) Realizar el seguimiento técnico pre adoptivo en las adopciones nacionales, cuando fuere requerida para ello por el tribunal de la causa.
+
 h) Intercambiar información respecto de los niños, niñas y adolescentes a ser adoptados o adoptadas que tengan su residencia en el respectivo estado, a fin de facilitar la búsqueda del padre y la madre adoptivos que más se adecuen a sus características e intereses.
 
 **Artículo 146**. DEROGADO.
@@ -1128,20 +1297,35 @@ h) Intercambiar información respecto de los niños, niñas y adolescentes a ser
 
 **Artículo 147**. Son atribuciones de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes: 
 a) Presentar a consideración del Alcalde o Alcaldesa el Plan Municipal para la Protección Integral de Niños, Niñas y Adolescentes, en estricto cumplimiento de la política y Plan Nacional para la Protección Integral de Niños, Niñas y Adolescentes aprobados por el órgano rector, así como de los lineamientos y directrices emanadas de éste.
+
 b) Presentar a consideración del Alcalde o Alcaldesa la propuesta de presupuesto del Consejo.
+
 c) Coordinar y brindar apoyo técnico en el ámbito municipal a los integrantes del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes.
+
 d) Promover la divulgación de los derechos, garantías y deberes de niños, niñas y adolescentes y ser vocero de sus intereses e inquietudes.
+
 e) Crear entidades de atención para la ejecución de programas de protección.
+
 f) Promover, acompañar y supervisar a las entidades de atención y programas de protección, especialmente a través de las comunidades organizadas.
+
 g) Mantener el Registro Nacional de Defensorías, entidades de atención y programas de protección de niños, niñas y adolescentes, de conformidad con lo establecido por el Consejo Nacional de Derechos de Niños, Niñas y Adolescentes.
+
 h) Conocer, evaluar y opinar sobre los planes municipales intersectoriales que elaboren los órganos competentes, así como de las políticas y acciones públicas y privadas referidas a niños, niñas y adolescentes.
+
 i) Solicitar a las autoridades municipales competentes acciones y adjudicación de recursos para la solución de problemas específicos que afecte a niños, niñas y adolescentes.
+
 j) Denunciar ante los órganos competentes la omisión o prestación irregular de los servicios públicos municipales, prestados por entes públicos o privados, que amenacen o violen los derechos y garantías de niños, niñas y adolescentes.
+
 k) Conocer casos de amenazas o violaciones a los derechos colectivos o difusos de los niños, niñas y adolescentes en el ámbito municipal.
+
 l) Intentar de oficio o por denuncia la acción de protección, así como solicitar la nulidad de la normativa o de actos administrativos cuando éstos violen o amenacen los derechos y garantías de niños, niñas y adolescentes.
+
 m) Brindar protección especial a los derechos y garantías específicos de los niños, niñas y adolescentes de los pueblos y comunidades indígenas y afrodescendientes.
+
 n) Ejercer con relación al Fondo Municipal de Protección de Niños, Niñas y Adolescentes la atribución que establece el artículo 339. de esta Ley.
+
 o) Dictar su Reglamento Interno.
+
 p) Las demás que ésta u otras leyes le asignen, así como sus reglamentos.
 
 ##### Junta Directiva
@@ -1153,10 +1337,15 @@ En los municipios donde existan pueblos y comunidades indígenas o afrodescendie
 Son atribuciones de la Junta Directiva del Consejo Municipal de Derechos de Niños, Niñas y Adolescentes:
 
 a) Aprobar la propuesta de Plan Municipal para la Protección Integral de Niños, Niñas y Adolescentes, a ser presentado a la consideración del Alcalde o Alcaldesa.
+
 b) Aprobar la propuesta de Presupuesto del Consejo, a ser presentado a la consideración del Alcalde o Alcaldesa.
+
 c) Aprobar los planes de acción y aplicación del Fondo Municipal de Protección de Niños, Niñas y Adolescentes.
+
 d) Aprobar el Reglamento Interno del Consejo.
+
 e) Debatir las materias de interés que presente su Presidente o Presidenta o cualquiera de sus integrantes.
+
 f) Las demás que ésta u otras leyes la asignen, así como sus reglamentos.
 
 ##### Presidente o Presidenta
@@ -1166,25 +1355,45 @@ f) Las demás que ésta u otras leyes la asignen, así como sus reglamentos.
 Son atribuciones del Presidente o Presidenta del Consejo Municipal de Derechos de Niños, Niñas y Adolescentes:
 
 a) Ejercer la máxima autoridad ejecutiva y administrativa del Consejo.
+
 b) Representar al Consejo.
+
 c) Ejercer en el Consejo la máxima autoridad en materia de personal, de conformidad con lo previsto en la legislación en materia funcionarial y del trabajo.
+
 d) Administrar el presupuesto del Consejo, teniendo la cualidad de cuentadante.
+
 e) Convocar, dirigir y participar en las sesiones de la Junta Directiva.
+
 f) Elaborar y presentar a la consideración de la Junta Directiva la propuesta del Plan Municipal de Derechos de Niños, Niñas y Adolescentes, a ser presentados o presentadas a la consideración del Alcalde o Alcaldesa.
+
 g) Elaborar y presentar a la consideración de la Junta Directiva la propuesta de presupuesto del Consejo, a ser presentados o presentadas a la consideración del Alcalde o Alcaldesa.
+
 h) Elaborar y presentar a la consideración de la Junta Directiva, los proyectos de planes de acción y aplicación del Fondo Municipal de Protección de Niños, Niñas y Adolescentes.
+
 i) Ejercer en relación al Fondo Municipal de Protección de Niños, Niñas y Adolescentes la atribución que establece el artículo 339. de esta Ley, así como designar a su administrador o administradora.
+
 j) Elaborar y presentar a la consideración de la Junta Directiva la propuesta de Reglamento Interno del Consejo.
+
 k) Promover la divulgación de los derechos, garantías y deberes de niños, niñas y adolescentes y ser voceros de sus intereses e inquietudes.
+
 l) Crear entidades de atención y ejecutar programas de protección, conforme a los lineamientos del Consejo.
+
 m) Promover, acompañar y supervisar las entidades de atención y programas de protección, especialmente a través de las comunidades organizadas en el ámbito municipal.
+
 n) Mantener el Registro Nacional de Defensorías, entidades de atención y programas de protección, de conformidad con lo establecido por el Consejo.
+
 o) Conocer, evaluar y opinar sobre los planes municipales intersectoriales que elaboren en los órganos competentes, así como de las políticas y acciones públicas y privadas referidas a niños, niñas y adolescentes.
+
 p) Solicitar a las autoridades municipales competentes acciones y adjudicación de recursos para la solución de problemas específicos que afecta a niños, niñas y adolescentes.
+
 q) Denunciar ante los órganos competentes la omisión o prestación irregular de los servicios públicos municipales por entes públicos o privados, que amenacen o violen los derechos y garantías de niños, niñas y adolescentes.
+
 r) Conocer casos de amenazas o violaciones a los derechos colectivos o difusos de los niños, niñas y adolescentes en el ámbito municipal.
+
 s) Intentar de oficio o por denuncia la acción de protección, así como solicitar la nulidad de la normativa o de actos administrativos cuando éstos violen o amenacen los derechos y garantías de los niños, niñas y adolescentes.
+
 t) Brindar protección especial a los derechos y garantías específicos de los niños, niñas y adolescentes de los pueblos y comunidades indígenas y afrodescendientes.
+
 u) Las demás que ésta y otras leyes le asignen.
 
 #### Sección Quinta: Disposiciones comunes a los Consejos de Derechos de Niños, Niñas y Adolescentes
@@ -1220,8 +1429,11 @@ En consecuencia, a los fines legales correspondientes, se consideran justificada
 **Artículo 156**. La condición de integrante de la Junta Directiva del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes y de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes se pierde en los siguientes casos:
 
 a) Ser condenado o condenada penalmente por sentencia definitivamente firme.
+
 b) Ser condenado o condenada por infracción a los derechos y garantías contempladas en esta ley.
+
 c) No asistir a tres reuniones consecutivas o seis alternas del respectivo directorio, salvo justificación por escrito aceptada por el propio directorio.
+
 d) Haber decidido con lugar la autoridad judicial competente, en el curso de un mismo año, dos o más acciones de protección por abstención a que se refiere el artículo 177. de esta ley. En este caso, la pérdida se produce para todos los integrantes.
 
 La pérdida de la condición de integrante inhabilita para ejercer nuevamente la función de integrante de la Junta Directiva del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes y de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes. Al producirse la pérdida de la condición de integrante de la Junta Directiva, asumirá el respectivo o la respectiva suplente.
@@ -1247,16 +1459,27 @@ Los Consejos de Protección de Niños, Niñas y Adolescentes, forman parte de la
 **Artículo 160**. Son atribuciones de los Consejos de Protección de Niños, Niñas y Adolescentes:
 
 a) Instar a la conciliación entre las partes involucradas en un procedimiento administrativo, siempre que se trate de situaciones de carácter disponible y de materias de su competencia, en caso de que la conciliación no sea posible, aplicar la medida de protección correspondiente.
+
 b) Dictar las medidas de protección, excepto las de adopción y colocación familiar o en entidad de atención, que son exclusivas del tribunal de protección de niños, niñas y adolescentes.
+
 c) Ejecutar sus medidas de protección y decisiones administrativas, pudiendo para ello requerir servicios públicos o el uso de la fuerza pública, o la inclusión del niño, niña o adolescente y su familia en uno o varios programas.
+
 d) Llevar un registro de control y referencia de los niños, niñas y adolescentes o su familia a quienes se les haya aplicado medidas de protección.
+
 e) Hacer seguimiento del cumplimiento de las medidas de protección y decisiones.
+
 f) Interponer las acciones dirigidas a establecer las sanciones por desacato de sus medidas de protección y decisiones, ante el órgano judicial competente.
+
 g) Denunciar ante el ministerio público cuando conozca o reciba denuncias de situaciones que configuren infracciones de carácter administrativo, disciplinario, penal o civil contra niños, niñas y adolescentes.
+
 h) Expedir las autorizaciones para viajar de niños, niñas y adolescentes dentro y fuera del territorio nacional, cuando dicho traslado se realice sin compañía de su padre y madre, representantes o responsables, excepto cuando haya desacuerdo entre estos últimos, en cuyo caso decidirá el juez o jueza.
+
 i) Autorizar a los y las adolescentes para trabajar y llevar el registro de adolescentes trabajadores y trabajadoras, enviando esta información al ministerio del poder popular con competencia en materia de trabajo.
+
 j) Solicitar ante el registro del estado civil o la autoridad de identificación competente, la extensión o expedición de partidas de nacimiento, defunción o documentos de identidad de niños, niñas y adolescentes, que así lo requieran.
+
 k) Solicitar la declaratoria de privación de la Patria Potestad.
+
 l) Solicitar la fijación de la Obligación de Manutención y del Régimen de Convivencia Familiar.
 
 ##### Integrantes
@@ -1286,10 +1509,15 @@ Al momento de efectuarse la selección de los y las integrantes principales del 
 **Artículo 164**. Para ser integrante de un Consejo de Protección de Niños, Niñas y Adolescentes se requerirá como mínimo:
 
 a) Reconocida idoneidad moral y ética.
+
 b) Edad superior a veintiún años.
+
 c) Residir o trabajar en el respectivo municipio por más de un año.
+
 d) Poseer grado universitario, técnico superior universitario o bachiller.
+
 e) Formación profesional relacionada con niños, niñas y adolescentes o, en su defecto, experiencia previa en áreas de protección de los derechos de niños, niñas y adolescentes o en áreas afines, comprobada por certificación emitida por el ente en el cual haya prestado sus servicios.
+
 f) Aprobación previa de un examen de suficiencia en el conocimiento del contenido de esta ley, presentado ante el respectivo consejo municipal de Derechos de Niños, Niñas y Adolescentes.
 
 Los requisitos para los y las representantes de pueblos y comunidades indígenas, lo establecerán las comunidades y pueblos indígenas, tomando en cuenta sus tradiciones, usos y costumbres así como los principios y normas que les rige.
@@ -1315,9 +1543,13 @@ En todo caso, la respectiva ordenanza debe establecer un sistema rotatorio de gu
 **Artículo 168**. La condición de integrante del Consejo de Protección se pierde:
 
 a) Por incumplimiento reiterado de sus funciones.
+
 b) Cuando fuere condenado o condenada penalmente, mediante sentencia definitivamente firme.
+
 c) Cuando haya sido sancionado o sancionada por infracción cometida contra los derechos y garantías consagrados en esta ley.
+
 d) Cuando la autoridad judicial haya resuelto, en el curso de un mismo año, dos o más casos en los cuales el respectivo consejo de protección de niños, niñas y adolescentes se abstuvo injustificadamente de decidir, sin haber declarado su incompetencia.
+
 e) La pérdida de la condición de integrante se produce mediante acto del Alcalde o Alcaldesa, previa evaluación y decisión del respectivo Consejo Municipal de Derechos e inhabilita para ejercer nuevamente la función de Consejero o Consejera de Protección.
 
 ### Capítulo VI: Órganos Judiciales de Protección, Ministerio Público, Defensoría del Pueblo y Servicio Autónomo de la Defensa Pública
@@ -1350,11 +1582,17 @@ Tribunal de Protección de Niños, Niñas y Adolescentes.
 **Artículo 170**. Son atribuciones del o de la Fiscal Especial para la Protección de Niños, Niñas y Adolescentes, además de aquellas establecidas en su Ley Orgánica:
 
 a)  Intentar las acciones a que hubiere lugar para hacer efectiva la responsabilidad civil, administrativa o disciplinaria de las personas o instituciones que, por acción u omisión, violen o amenacen derechos individuales, colectivos o difusos de niños, niñas y adolescentes.
+
 b)  Ejercer la acción judicial de protección.
+
 c)  Intentar las acciones a que hubiere lugar para hacer efectiva la responsabilidad penal de las personas que incurran en hechos punibles contra niños, niñas y adolescentes.
+
 d)  Defender el interés de niños, niñas y adolescentes en procedimientos judiciales o administrativos.
+
 e)  Interponer la acción de privación de la Patria Potestad, de oficio o a solicitud del hijo o hija a partir de los doce años, de los ascendientes y de los demás parientes del hijo o hija dentro del cuarto grado en cualquier línea, de la persona que ejerza la Responsabilidad de Crianza y del Consejo de Protección de Niños, Niñas y Adolescentes.
+
 f)  Promover acuerdos judiciales y extrajudiciales en interés de niños, niñas y adolescentes.
+
 g)  Las demás que le señale la ley.
 
 ##### Atribuciones de la Defensoría del Pueblo
@@ -1367,37 +1605,48 @@ delegados y defensoras delegadas:
 a)  Promover,  divulgar  y  ejecutar  actividades  educativas  y  de  investigación  para  la  difusión  y 
 efectiva protección de los derechos humanos de niños, niñas y adolescentes. 
  
+
 b)  Impulsar  la  participación  ciudadana  para  velar  por  los  derechos  y  garantías  de  niños,  niñas  y 
 adolescentes. 
  
+
 c)  Iniciar  y  proseguir  de  oficio  o  a  petición  de  interesado  o  interesada  cualquier  investigación 
 conducente al esclarecimiento de los asuntos de su competencia, de conformidad con la ley. 
  
+
 d) Promover acuerdos judiciales y extrajudiciales en interés de niños, niñas y adolescentes. 
  
+
 e)  Inspeccionar  las  entidades  de  atención,  programas  de  protección,  las  defensorías  y  a  los 
 defensores  o  defensoras  de  niños,  niñas  y  adolescentes  e  instar  a  las  autoridades  competentes 
 para que impongan las medidas a que hubiere lugar. 
  
+
 f)  Velar  por  el  adecuado  funcionamiento  de  los  demás  integrantes  del  Sistema  Rector  Nacional 
 para la Protección Integral de Niños, Niñas y Adolescentes. 
  
+
 g) Ejercer la acción de amparo, hábeas corpus, de hábeas data y para la aplicación de medidas de 
 protección ante los consejos de protección de niños, niñas y adolescentes y los recursos judiciales 
 contra actos de efectos particulares en beneficio de niños, niñas y adolescentes. 
  
+
 h) Ejercer la acción judicial de protección. 
  
+
 i)  Solicitar  ante  el  órgano  competente  la  aplicación  de  los  correctivos  y  sanciones  a  que  hubiere 
 lugar por la violación de los derechos y garantías de niños, niñas y adolescentes. 
  
+
 j)  Inspeccionar  y  velar  por  los  derechos  humanos  de  los  adolescentes  privados  de  su  libertad  en 
 programas y centros de privación de libertad y semi-libertad. 
  
+
 k) Supervisar a los consejos de protección de niños, niñas y adolescentes a los fines de garantizar 
 el ejercicio efectivo de los derechos de los niños, niñas y adolescentes, así como el seguimiento a 
 los procedimientos contemplados en esta ley. 
  
+
 l) Las demás que señale la ley o que le sean delegadas por el Defensor o Defensora del Pueblo. 
  
 
@@ -1410,15 +1659,19 @@ Niñas y del Adolescente, además de aquellas establecidas en su Ley Orgánica:
 a)  Brindar  asesoría  jurídica  gratuita  a  niños,  niñas,  adolescentes  y  demás  interesados  o 
 interesadas. 
  
+
 b)  Brindar  asistencia  y  representación  técnica  gratuita  a  niños,  niñas,  adolescentes  y  demás 
 interesados o interesadas, en cualquier procedimiento judicial o administrativo, para la defensa de 
 sus derechos, garantías e intereses individuales, colectivos o difusos. 
  
+
 c) Realizar gratuitamente los demás servicios propios de la abogacía en  interés de niños, niñas  y 
 adolescentes. 
  
+
 d) Promover acuerdos judiciales y extrajudiciales en interés de niños, niñas y adolescentes. 
  
+
 e) Las demás que señale la ley. 
  
 En ejercicio de su representación, los defensores públicos y defensoras públicas especiales para la 
@@ -1432,7 +1685,9 @@ asistencia de las partes.
 **Artículo 171**. Para el ejercicio de sus funciones el o la Fiscal del Ministerio Público podrá:
 
 a) Ordenar notificaciones, a fin de solicitar las declaraciones para la investigación inicial de los hechos. En caso de negativa, puede ordenar la comparecencia compulsiva mediante la autoridad policial.
+
 b) Solicitar a las autoridades toda clase de información, pericias y documentos.
+
 c) Pedir informes a instituciones privadas o a particulares. 
 
 ##### Intervención necesaria
@@ -1466,48 +1721,79 @@ En cada circuito judicial, los Tribunales de Protección de Niños, Niñas y Ado
 **Parágrafo Primero:** Asuntos de familia de naturaleza contenciosa:
 
 a) Filiación.
+
 b) Privación, restitución y extinción de la Patria Potestad, así como las discrepancias que surjan en relación con su ejercicio.
+
 c) Otorgamiento, modificación, restitución y privación del ejercicio de la Responsabilidad de Crianza o de la Custodia.
+
 d) Fijación, ofrecimiento para la fijación y revisión de la Obligación de Manutención nacional e internacional.
+
 e) Fijación y revisión de Régimen de Convivencia Familiar nacional e internacional.
+
 f) Negativas o desacuerdos en autorizaciones para viajar dentro y fuera del país.
+
 g) Negativas o desacuerdos en autorizaciones para residenciarse dentro y fuera del país.
+
 h) Colocación familiar y colocación en entidad de atención.
+
 i) Adopción y nulidad de adopción.
+
 j) Divorcio, nulidad de matrimonio y separación de cuerpos, cuando haya niños, niñas o adolescentes comunes o bajo Responsabilidad de Crianza y/o Patria Potestad de alguno de los cónyuges.
+
 k) Divorcio, nulidad de matrimonio, separación de cuerpos, liquidación y partición de la comunidad conyugal o de uniones estables de hecho cuando uno o ambos cónyuges sean adolescentes.
+
 l) Liquidación y partición de la comunidad conyugal o de uniones estables de hecho, cuando haya niños, niñas y adolescentes comunes o bajo Responsabilidad de Crianza y/o Patria Potestad de alguno o alguna de los solicitantes.
+
 m) Cualquier otro afín de naturaleza contenciosa que deba resolverse judicialmente en el cual los niños, niñas y adolescentes sean legitimados activos o pasivos en el proceso.
 
 **Parágrafo Segundo:** Asuntos de familia de jurisdicción voluntaria:
 
 a) Administración de los bienes y representación de los hijos e hijas.
+
 b) Procedimiento de Tutela, remoción de tutores, curadores, protutores, y miembros del Consejo de Tutela.
+
 c) Curatelas.
+
 d) Autorizaciones requeridas para el matrimonio, cuando uno o ambos contrayentes sean adolescentes.
+
 e) Autorizaciones requeridas por el padre y la madre, tutores, tutoras, curadores o curadoras.
+
 f) Autorizaciones para separarse del hogar, cuando haya niños, niñas y adolescentes, o cuando uno o ambos cónyuges sean adolescentes.
+
 g) Separación de cuerpos y divorcio de conformidad con el artículo 185-a del Código Civil, cuando haya niños, niñas y adolescentes, o cuando uno o ambos cónyuges sean adolescentes.
+
 h) Homologación de acuerdos de liquidación y partición de la comunidad conyugal o de uniones estables de hecho, cuando haya niños, niñas y adolescentes.
+
 i) Rectificación y nulidad de partidas relativas al estado civil de niños, niñas y adolescentes, sin perjuicio de las atribuciones de los consejos de protección de niños, niñas y adolescentes, previstas en el literal f) del artículo 126. de esta ley, referidas a la inserción y corrección de errores materiales cometidos en las actas del registro civil.
+
 j) Títulos supletorios.
+
 k) Justificativos para perpetua memoria y demás diligencias dirigidas a la comprobación de algún hecho o algún derecho propios del interesado o interesada en ellas, siempre que en el otorgamiento de los mismos se encuentren involucrados derechos de niños, niñas y adolescentes.
+
 l) Cualquier otro de naturaleza afín de jurisdicción voluntaria que deba resolverse judicialmente, en el cual los niños, niñas y adolescentes sean legitimados activos o pasivos en el proceso.
 
 **Parágrafo Tercero:** Asuntos provenientes de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes o de los Consejos de Protección de Niños, Niñas y Adolescentes:
 
 a) Disconformidad con las decisiones, actuaciones y actos administrativos de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes o los Consejos de Protección de Niños, Niñas y Adolescentes, en ejercicio de las competencias en materia de protección de niños, niñas y adolescentes.
+
 b) Disconformidad con las medidas impuestas por los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes o los Consejos de Protección de Niños, Niñas y Adolescentes.
+
 c) Abstención de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes o de los Consejos de Protección de Niños, Niñas y Adolescentes.
+
 d)  Aplicación de sanciones a particulares, instituciones públicas o privadas, excepto las previstas en la Sección Cuarta del Capítulo IX de este Título.
+
 e) Cualquier otra de naturaleza afín que deba resolverse judicialmente o que esté prevista en la ley.
 
 **Parágrafo Cuarto:** Asuntos patrimoniales, del trabajo y otros asuntos:
 
 a) Demandas patrimoniales en las cuales los niños, niñas y adolescentes sean legitimados activos o pasivos en el procedimiento.
+
 b) Demandas laborales en las cuales los niños, niñas y adolescentes sean legitimados activos o pasivos en el procedimiento.
+
 c) Demandas y solicitudes no patrimoniales en las cuales los niños, niñas y adolescentes sean legitimados activos o pasivos en el proceso.
+
 d) Demandas y solicitudes en las cuales personas jurídicas constituidas exclusivamente por niños, niñas y adolescentes sean legitimados activos o pasivos en el procedimiento.
+
 e) Cualquier otro de naturaleza afín que deba resolverse judicialmente, en el cual los niños, niñas o adolescentes sean legitimados activos o pasivos en el proceso.
 
 **Parágrafo Quinto:** Acción judicial de protección de niños, niñas y adolescentes contra hechos, actos u omisiones de particulares, órganos e instituciones públicas o privadas que amenacen o violen derechos colectivos o difusos, de niños, niñas y adolescentes.
@@ -1531,31 +1817,39 @@ y Adolescentes:
 a)  Contribuir  con  el  desarrollo  de  la  mediación  en  los  procedimientos  judiciales,  cuando  sea 
 considerado conveniente por el juez o jueza. 
  
+
 b)  Intervenir  como  expertos  independientes  e  imparciales  del  sistema  de  justicia  en  los 
 procedimientos judiciales, realizando experticias mediante informes técnicos integrales o parciales. 
  
+
 c)  Emitir  opinión  sobre  la  procedencia  de  proteger  a  un  niño,  niña  o  adolescente  mediante 
 colocación  familiar,  así  como  sobre  la  idoneidad  de  los  candidatos  o  candidatas  a  familias 
 sustitutas,  a  través  de  informes  técnicos  integrales  de  idoneidad,  de  conformidad  con  el  literal  d) 
 del artículo 395 de esta Ley. 
  
+
 d) Brindar asesoría integral a las personas a quienes se debe solicitar consentimiento en materia 
 de adopción, de conformidad con los artículos 414 y 418 de esta ley. 
  
+
 e)  Auxiliar  al  juez  o  jueza  para  valorar  la  opinión  o  testimonio  de  los  niños,  niñas  y  adolescentes 
 según su edad y grado de madurez, cuando sea considerado necesario por el juez o jueza. 
  
+
 f)  Auxiliar  al  Tribunal  de  Protección  de  Niños,  Niñas  y  Adolescentes  en  la  ejecución  de  las 
 decisiones  judiciales  y  acuerdos  conciliatorios  con  fuerza  ejecutiva,  cuando  sea  considerado 
 conveniente por el juez o jueza. 
  
+
 g) Las demás que establezca la ley y los reglamentos.
 
 ##### Ambiente físico adecuado y dotación de los Tribunales de Protección de Niños, Niñas y Adolescentes
 
 **Artículo 180**. Los Tribunales de Protección de Niños, Niñas y Adolescentes deben ser dotados de las instalaciones, equipo y personal necesario para el cumplimiento de sus funciones, entre otras deben contar con: 
 a) Un espacio dirigido especialmente a la atención de los niños, niñas y adolescentes durante su permanencia en la sede judicial.
+
 b) Un espacio y dotación apropiada para la realización de las funciones del equipo multidisciplinario.
+
 c) Ambientación adecuada a la condición de los niños, niñas y adolescentes como personas en desarrollo.
 
 ### Capítulo VII: Entidades de Atención
@@ -1579,18 +1873,31 @@ Las entidades de atención del Sistema Penal de Responsabilidad del Adolescente 
 **Artículo 183**. Las entidades de atención, teniendo en cuenta el principio del interés superior de niños, niñas y adolescentes, de acuerdo al contenido del programa que desarrollen, deben ajustar su funcionamiento a lo siguiente:
 
 a) Preservación de los vínculos familiares.
+
 b) No separación de grupos de hermanos y hermanas.
+
 c) Preservación de la identidad del niño, niña y adolescente y oferta de entorno de respeto y dignidad, lo cual incluye, entre otros, el derecho a que la entidad de atención no ostente en sus fachadas o paredes internas escritos alusivos a su condición de tal que puedan entorpecer el sano desarrollo psíquico de los niños, niñas y adolescentes atendidos.
+
 d) Estudio personal y social de cada caso.
+
 e) Atención individualizada y en pequeños grupos.
+
 f) Garantía de alimentación y vestido, así como de los objetos necesarios para su higiene y aseo personal.—
+
 g) Garantía de atención médica, psicológica, psiquiátrica, odontológica y farmacéutica.
+
 h) Garantía de actividades culturales, recreativas y deportivas.
+
 i) Garantía de acceso a actividades educativas y a las que propicien la escolarización y la profesionalización, estimulando la participación de personas de la comunidad en el proceso educativo.
+
 j) Mantenimiento de los niños, niñas y adolescentes en posesión de sus objetos personales y disposición de local seguro para guardarlos, otorgándosele comprobante de aquellos que hayan sido depositados en poder de la entidad.
+
 k) Garantía a los niños, niñas y adolescentes del pleno ejercicio del derecho a estar informado o informada de los acontecimientos que ocurren en su comunidad, su país y el mundo y de participar en la vida de la comunidad local.
+
 l) Preparación gradual del niño, niña y del adolescente para su separación de la entidad de atención.
+
 m) Mantenimiento de archivos donde consten la fecha y circunstancias de la atención prestada; el nombre del niño, niña o adolescente atendido; su padre, madre, representantes o responsables, parientes, direcciones, sexo; edad, seguimiento de su formación, relación de sus bienes personales y demás datos que posibiliten su identificación y la individualización de la atención.
+
 n) Seguimiento a los niños, niñas y adolescentes que salgan de la entidad.
 
 ##### Funciones
@@ -1598,8 +1905,11 @@ n) Seguimiento a los niños, niñas y adolescentes que salgan de la entidad.
 **Artículo 184**. Además de las funciones que sean inherentes al programa que desarrolle la entidad de atención, sus responsables deben:
 
 a) En el caso de que la entidad tenga un niño, niña o adolescente con necesidades específicas que no pueden ser atendidas mediante el programa que desarrollen, debe comunicar este hecho, al Consejo de Protección de Niños, Niñas y Adolescentes, a objeto de que tome las medidas pertinentes para incluirlos en un programa acorde con sus necesidades.
+
 b) Prestar colaboración y efectuar los trámites necesarios a fin de satisfacer las necesidades de los niños, niñas y adolescentes allí atendidos, de obtener sus documentos de identidad ante el Registro del Estado Civil o las autoridades de identificación competentes, según sea el caso.
+
 c) Comunicar a la autoridad judicial y al Consejo de Protección de Niños, Niñas y Adolescentes competente los casos en que se demuestre inviable o imposible el restablecimiento de los vínculos familiares, a objeto de que el juez o la jueza decida lo conducente.
+
 d) Evaluar, periódica e individualmente, cada niño, niña o adolescente atendido o atendida con intervalos máximos de tres meses.
 
 ##### Atención de emergencia
@@ -1637,22 +1947,34 @@ La aceptación conforme de la copia por parte del Consejo Municipal de Derechos 
 **Artículo 190**. Las entidades de atención deben presentar su solicitud de registro al respectivo Consejo Municipal de Derechos de Niños, Niñas y Adolescentes, acompañada de los siguientes recaudos:
 
 a) Documento constitutivo-estatutario registrado y sus últimas modificaciones.
+
 b) Identificación del programa de atención cuya ejecución constituya su objeto principal.
+
 c) Documento que identifique a la entidad de atención ante el impuesto sobre la renta.
+
 d) Acta registrada ante la autoridad competente donde conste el nombramiento del último órgano directivo.
+
 e) Documentos de identificación de las personas que dentro de la entidad de atención deben ser considerados responsables y quienes ejercen la Custodia, a todos los efectos legales, de los niños, niñas y adolescentes que allí reciban atención.
+
 f) Presupuesto estimado anual y forma de financiamiento de la entidad de atención.
+
 g) Cualquier otro que el Consejo de Derechos de Niños, Niñas y Adolescentes considere necesario de acuerdo a las circunstancias específicas de la entidad de atención de que se trate. El criterio que debe privar en esta materia es el de máxima colaboración entre la autoridad administrativa y la entidad de atención, con la finalidad de hacer el acto de registro lo más expedito posible.
 
 ##### Requisitos para la inscripción de programas
 
 **Artículo 191**. El o la responsable de un programa, sea éste ejecutado o no en una entidad de atención, debe presentar su solicitud de inscripción acompañada de: 
 a) Justificación.
+
 b) Beneficiarios directos e indirectos.
+
 c) Objetivos generales y específicos.
+
 d) Forma de ejecución y productos esperados.
+
 e) Presupuesto y forma de financiamiento.
+
 f) Perfil, funciones y número estimado de personas que intervendrán en su ejecución.
+
 g) Tiempo estimado de duración del programa.
 
 Cuando el programa sea ejecutado por persona natural, se le exigirá reconocida idoneidad moral, así como formación profesional o experiencia previa en materia de niños, niñas y adolescentes.
@@ -1662,10 +1984,15 @@ Cuando el programa sea ejecutado por persona natural, se le exigirá reconocida 
 **Artículo 192**. El Consejo Municipal de Derechos de Niños, Niñas y Adolescentes negará el registro a la entidad que:
 
 a) No ofrezca instalaciones físicas en condiciones adecuadas de habitabilidad, higiene, salubridad, seguridad o no asegure el ejercicio de los derechos, garantías y el cumplimiento de los deberes establecidos en esta Ley.
+
 b) No presente un programa acorde con el interés superior de niños, niñas y adolescentes y los derechos y garantías consagrados en esta Ley.
+
 c) Esté irregularmente constituida o establecida.
+
 d) Se organice exclusivamente con fines de lucro.
+
 e) Tenga a su servicio personas no idóneas, a juicio del Consejo Municipal de Derechos de Niños, Niñas y Adolescentes.
+
 f) No haya efectuado, en su presupuesto anual, una estimación acorde con el programa a ejecutar.
 
 ##### Denegación de la inscripción
@@ -1700,8 +2027,11 @@ En todo caso, la inscripción de un programa puede ser suspendida o aun revocada
 
 **Artículo 199**. Las entidades de atención y los programas y proyectos de protección de niños, niñas y adolescentes son inspeccionados por la Defensoría del Pueblo. No obstante, la autoridad competente que otorgó o renovó el registro, o efectuó la inscripción, cuando compruebe irregularidades en la prestación del correspondiente servicio, según la gravedad del caso, podrá imponer a las entidades de atención o a los programas de protección las siguientes medidas: 
 a) Advertencia.
+
 b) Suspensión de sus responsables.
+
 c) Suspensión por tiempo determinado o clausura de la entidad de atención o del programa.
+
 d) Revocación del registro o inscripción.
 
 ##### Aplicación no excluyente
@@ -1723,16 +2053,27 @@ Las Defensorías de Niños, Niñas y Adolescentes tienen como objeto promover y 
 **Artículo 202**. Las Defensorías de Niños, Niñas y Adolescentes pueden prestar a éstos y a sus familias, entre otros, los siguientes servicios: 
 
 a) Orientación y apoyo interdisciplinario.
+
 b) Atención de casos que ameriten la imposición de medidas de protección o que constituyan infracciones de carácter civil, administrativo o penal, a fin de orientarlos a la autoridad competente.
+
 c) Orientación en los casos que ameriten la atención de otros programas y servicios.
+
 d) Denuncia ante el consejo de protección o tribunal competente, según sea el caso, de las situaciones a que se refiere el literal b).
+
 e) Intervención como defensor o defensora de niños, niñas y adolescentes ante las instancias administrativas, educativas y comunitarias que corresponda.
+
 f) Estímulo al fortalecimiento de los lazos familiares, a través de procesos no judiciales, para lo cual podrán promover conciliaciones entre cónyuges, padre, madre y familiares, conforme al procedimiento señalado en la Sección Cuarta del Capítulo XI de esta Ley, en el cual las partes acuerden normas de comportamiento en materias tales como: Obligación de Manutención y Régimen de Convivencia Familiar, entre otras.
+
 g) Fomento y asesoría técnica para la creación de programas de protección en beneficio de los niños, niñas y adolescentes.
+
 h) Asistencia jurídica a niños, niñas y adolescentes o sus familias, en materias relacionadas con esta Ley.
+
 i) Promoción de reconocimiento voluntario de filiaciones.
+
 j) Creación y promoción de oportunidades que estimulen la participación de los niños, niñas y adolescentes en la toma de decisiones comunitarias o familiares que los afecten.
+
 k) Difusión de los derechos de los niños, niñas y adolescentes así como la educación de los mismos para la autodefensa de sus derechos.
+
 l) Asistencia a niños, niñas y adolescentes en los trámites necesarios para la inscripción ante el Registro del Estado Civil y la obtención de sus documentos de identidad.
 
 ##### Principios
@@ -1740,7 +2081,9 @@ l) Asistencia a niños, niñas y adolescentes en los trámites necesarios para l
 **Artículo 203**. La prestación de los servicios indicados en el artículo anterior debe tomar en cuenta el interés superior de niños, niñas y adolescentes y la efectiva ejecución de los derechos consagrados en esta Ley y para ello debe basarse, entre otros, en los siguientes principios:
 
 a) Gratuidad.
+
 b) Confidencialidad.
+
 c) Carácter orientador y no impositivo.
 
 ##### Usuarios y usuarias
@@ -1748,7 +2091,9 @@ c) Carácter orientador y no impositivo.
 **Artículo 204**. Pueden solicitar los servicios de las Defensorías de Niños, Niñas y Adolescentes:
 
 a) Los propios niños, niñas y adolescentes.
+
 b) El padre, la madre, representantes, responsables y cualquier otro integrante de la familia de origen o familia sustituta.
+
 c) Cualquier persona que tenga conocimiento de una situación que afecte los derechos y garantías de los niños, niñas y adolescentes.
 
 Las Defensorías de Niños, Niñas y del Adolescentes deben llevar un archivo para los casos recibidos, resueltos y en trámite.
@@ -1770,9 +2115,13 @@ Las personas que en las Defensorías sirvan a los niños, niñas, adolescentes y
 **Artículo 207**. Para ser Defensor o Defensora de Niños, Niñas y Adolescentes se requiere:
 
 a) Reconocida idoneidad moral.
+
 b) Edad superior a veintiún años.
+
 c) Residir o trabajar en el municipio.
+
 d) Formación profesional relacionada con niños, niñas y adolescentes o, en su defecto, experiencia previa en áreas de protección de los derechos de niños, niñas y adolescentes o en áreas afines.
+
 e) Aprobación de un examen de suficiencia en el conocimiento del contenido de esta Ley.
 
 ##### Requisitos para el Registro de las Defensorías de Niños, Niñas y Adolescentes
@@ -1780,9 +2129,13 @@ e) Aprobación de un examen de suficiencia en el conocimiento del contenido de e
 **Artículo 208**. A los efectos de obtener el Registro, el responsable de una Defensoría de Niños, Niñas y Adolescentes debe presentar los siguientes recaudos:
 
 a) La especificación del tipo de servicio que prestará.
+
 b) El listado de personas que prestarán directamente el servicio en calidad de defensores o defensoras de niños, niñas y adolescentes, con indicación de la respectiva identidad y los documentos que comprueben que reúnen los requisitos establecidos en el artículo anterior.
+
 c) Listado de las personas que, aun cuando no presten directamente el servicio, formarán parte del personal de la defensoría de niños, niñas y adolescentes.
+
 d) Cualquier otro que el Consejo Municipal de Derechos de Niños, Niñas y Adolescentes considere necesario.
+
 e) El criterio que debe prevalecer en esta materia es el de la máxima colaboración entre la autoridad administrativa y la Defensoría de Niños, Niñas y Adolescentes, con la finalidad de hacer el acto de registro más expedito.
 
 ##### Procedimiento
@@ -1796,6 +2149,7 @@ Dentro de las setenta y dos horas siguientes de producido el registro, el Consej
 **Artículo 210**. El Consejo Municipal de Derechos de Niños, Niñas y Adolescentes negará el registro a las Defensorías de Niños, Niñas y Adolescentes cuando:
 
 a) Éstas carezcan de sede para prestar los servicios.
+
 b) Las personas que se postulan como defensores o defensoras no reúnan los requisitos establecidos en el artículo 207. de esta Ley.
 
 **Parágrafo Primero:** Cuando la carencia de requisitos afecte a una o sólo algunas de las personas postuladas, el Consejo podrá registrar la Defensoría, negando el registro al Defensor o Defensora que no sea idóneo.
@@ -1815,9 +2169,13 @@ b) Las personas que se postulan como defensores o defensoras no reúnan los requ
 Verificado el incumplimiento por parte de una Defensoría, Defensor o Defensora de uno o varios de los derechos consagrados en esta Ley, la autoridad competente que hubiere otorgado el correspondiente registro o su renovación, a instancia propia o por denuncia, puede aplicar las siguientes medidas:
 
 a) Advertencia.
+
 b) Suspensión provisional o definitiva del defensor, defensora u otra persona que en la respectiva defensoría sea responsable del incumplimiento.
+
 c) Intervención de la defensoría de que se trate.
+
 d) Revocación del registro a los defensores o defensoras.
+
 e) Revocación del registro a la defensoría.
 
 ##### Aplicación no excluyente
@@ -2201,8 +2559,11 @@ El o la culpable deberá sufragar los gastos de envío del niño, niña o adoles
 **Artículo 278**. Pueden intentar la acción judicial de protección:
 
 a) El Ministerio Público.
+
 b) La Defensoría del Pueblo.
+
 c) El Consejo Nacional de Derechos y los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes.
+
 d) Las organizaciones, legalmente constituidas, con por lo menos dos años de funcionamiento, relacionadas con el asunto objeto de la acción judicial de protección.
 
 La República, los estados y los municipios pueden intentar la acción judicial de protección, a través del Ministerio Público o la Defensoría del Pueblo, si éstos encuentran fundamento en lo pedido.
@@ -2242,12 +2603,19 @@ Quedan a salvo la responsabilidad penal por desacato y la administrativa a que h
 Sin que implique el desconocimiento de otros derechos garantizados en esta Ley, estos procedimientos se fundan en los siguientes principios:
 
 a) Defensa del interés superior de niños, niñas y adolescentes.
+
 b) Celeridad.
+
 c) Confidencialidad.
+
 d) Imparcialidad.
+
 e) Igualdad de las partes.
+
 f) Garantía al derecho de defensa.
+
 g) Garantía al derecho a ser oído u oída.
+
 h) Gratuidad.
 
 ##### Obligatoriedad de la denuncia penal
@@ -2281,8 +2649,11 @@ El procedimiento de conciliación contemplado en la Sección Cuarta del capítul
 **Artículo 290**. La competencia geográfica de los Consejos Municipales de Protección y las Defensorías de Niños, Niñas y Adolescentes se determina en el siguiente orden de prelación:
 
 a) Domicilio o residencia de la familia natural.
+
 b) Domicilio o residencia de la familia sustituta o domicilio de la entidad de atención donde el niño, niña o adolescente se encuentre, según sea el caso.
+
 c) Lugar de ubicación del niño, niña o adolescente.
+
 d) Lugar de la situación, acción u omisión que ocasiona la apertura del procedimiento.
 
 ##### Legitimación
@@ -2306,6 +2677,7 @@ En los casos en que el órgano administrativo competente tenga conocimiento de u
 **Artículo 294**. El procedimiento administrativo descrito en esta Sección procede en los siguientes casos:
 
 a) Para la aplicación de las medidas de protección, cuando el Consejo de Protección de Niños, Niñas y Adolescentes competente tiene conocimiento o recibe denuncia de la amenaza o violación de los derechos consagrados en esta Ley, en perjuicio de un niño, niña o adolescente o varios de ellos individualmente considerados.
+
 b) Para la aplicación de las medidas a entidades de atención, responsables de programas y a las Defensorías, Defensores y Defensoras de Niños, Niñas y Adolescentes cuando el Consejo Municipal de Derechos que los hubiese registrado o registrada o inscrito o inscrita tiene conocimiento de irregularidades en su funcionamiento.
 
 ##### Iniciación
@@ -2399,10 +2771,15 @@ El niño, niña o adolescente involucrados deben ser siempre oídos u oídas y s
 **Artículo 313**. El acuerdo conciliatorio se consigna en un acta que debe contener:
 
 a)  Indicación de los datos necesarios para identificar a las partes y al proceso.
+
 b)  Naturaleza del asunto sobre el cual versa el acuerdo.
+
 c)  Relación sucinta de lo acontecido en el proceso.
+
 d)  Acuerdos a que llegaron las partes.
+
 e)  Lugar y fecha del acuerdo.
+
 f)  Firma de las partes y del conciliador o conciliadora.
 
 El acuerdo así celebrado surtirá, de inmediato, efecto entre las partes.
@@ -2500,8 +2877,11 @@ Cuando la acción se ejerciere contra un acto o conducta omisiva, o falta de cum
 **Artículo 334**. La distribución de los recursos de los Fondos de Protección de Niños, Niñas y Adolescentes debe efectuarse tomando en cuenta el siguiente orden de prioridades:
 
 a) Financiamiento de programas específicos de protección y atención a niños, niñas y adolescentes.
+
 b) Financiamiento de programas de capacitación, investigación y divulgación.
+
 c) Financiamiento de programas de protección jurídica, comunicacionales y culturales.
+
 d) Financiamiento excepcional de políticas sociales básicas.
 
 ##### Obligación de previsión.
@@ -2515,13 +2895,21 @@ La asignación de recursos se hará con base en las políticas y los planes de a
 **Artículo 336**. Los recursos del Fondo de Protección de Niños, Niñas y Adolescentes provienen, entre otras, de las siguientes fuentes:
 
 a) Asignaciones presupuestarias contenidas en los presupuestos de la Nación.
+
 b) Asignaciones adicionales aprobadas por leyes nacionales.
+
 c) Asignaciones de recursos no financieros por la Nación.
+
 d) Donaciones, auxilios, contribuciones, subvenciones, transferencias, legados o cualquier clase de asignación lícita de personas naturales, entidades nacionales e internacionales, gubernamentales o no gubernamentales.
+
 e) Resultado de las inversiones de los recursos disponibles, de las ventas de materiales y publicaciones, o de la realización de eventos de divulgación, promoción o capacitación de personas, en relación a los derechos y garantías contenidos en esta Ley.
+
 f) Multas impuestas por infracciones a esta Ley.
+
 g) Derivados de convenios, acuerdos y contratos realizados con entes públicos o privados, nacionales o internacionales.
+
 h) Producto de la declaratoria con lugar de la acción de protección, cuando la Nación no asigne los recursos a que se refiere el artículo anterior o cuando dicha asignación sea irregular o insuficiente.
+
 i) Otros legalmente constituidos.
 
 ##### Adscripción.
@@ -2540,14 +2928,23 @@ Los órganos de administración de los Fondos de Protección de Niños, Niñas y
 
 **Artículo 339**. Son atribuciones del Consejo Nacional de Derechos de Niños, Niñas y Adolescentes y de los Consejos Municipales de Derechos de Niños, Niñas y Adolescentes, con relación a los respectivos Fondos de Protección de Niños, Niñas y Adolescentes, las siguientes.
 a) Elaborar el plan de acción y el plan de aplicación de los recursos del respectivo Fondo.
+
 b) Establecer los parámetros técnicos y las directrices para la aplicación de los recursos del respectivo Fondo.
+
 c) Revisar y aprobar la ejecución, desempeño, resultados financieros, los balances mensuales y el balance anual del respectivo Fondo.
+
 d) Solicitar, en cualquier tiempo y a su criterio, las informaciones necesarias sobre actividades a cargo del respectivo Fondo.
+
 e) Divulgar, entre los integrantes del Sistema Rector Nacional para la Protección Integral de Niños, Niñas y Adolescentes, la existencia del respectivo Fondo, así como las normas sobre su administración, funcionamiento y control de sus acciones.
+
 f) Fiscalizar los programas ejecutados con recursos del respectivo Fondo requiriendo, de ser necesario, información al órgano de administración.
+
 g) Aprobar convenios, acuerdos o contratos a ser firmados con relación a recursos del respectivo Fondo.
+
 h) Autorizar expresa y específicamente la utilización excepcional de los recursos del respectivo Fondo en el financiamiento de políticas sociales básicas.
+
 i) Publicar, en lugar de fácil acceso a la comunidad, todas las resoluciones del respectivo Consejo de Derechos, relacionadas con el Fondo.
+
 j) Las demás que establezcan esta Ley y su Reglamento.
 
 ##### Definición de plan de acción y plan de aplicación.
@@ -2561,14 +2958,23 @@ Por plan de aplicación se entiende la distribución de recursos por áreas prio
 **Artículo 341**. Los administradores o administradoras en cada jurisdicción tienen, en relación con el respectivo Fondo de Protección de Niños, Niñas y Adolescentes, las siguientes atribuciones:
 
 a) Coordinar la ejecución de los recursos de acuerdo al plan de aplicación.
+
 b) Preparar y presentar al respectivo consejo de derechos de niños, niñas y adolescentes balances mensuales y anuales.
+
 c) Emitir órdenes de pago o cheques.
+
 d) Suscribir convenios, acuerdos o contratos con recursos del Fondo, previa aprobación del respectivo Consejo de Derechos de Niños, Niñas y Adolescentes y ejecutar las obligaciones allí definidas.
+
 e) Recibir donaciones, auxilios, contribuciones, subvenciones, transferencias, legados u otra clase de asignación lícita que se le haga al respectivo fondo.
+
 f) Colocar los recursos en inversiones no riesgosas, rentables y de fácil liquidación.
+
 g) Devolver el importe de las multas ingresadas al Fondo, en caso de sentencia definitivamente firme que así lo disponga.
+
 h) Suscribir los documentos correspondientes cuando el Fondo reciba recursos no financieros, así como ejercer la administración de los mismos.
+
 i) Mantener los controles necesarios para la ejecución de los recursos.
+
 j) Suscribir los documentos correspondientes, ejercer la administración y mantener el control de los bienes muebles o inmuebles adquiridos con recursos del respectivo Fondo.
 
 ##### Normas de funcionamiento.
@@ -2632,14 +3038,23 @@ Cuando el padre y la madre ejerzan de manera conjunta la Patria Potestad, los de
 **Artículo 352**. El padre o la madre o ambos pueden ser privados de la Patria Potestad respecto de sus hijos o hijas cuando:
 
 a) Los maltraten física, mental o moralmente.
+
 b) Los expongan a cualquier situación de riesgo o amenaza a los derechos fundamentales del hijo o hija.
+
 c) Incumplan los deberes inherentes a la Patria Potestad.
+
 d) Traten de corromperlos o prostituirlos o fueren conniventes en su corrupción o prostitución.
+
 e) Abusen de ellos o ellas sexualmente o los expongan a la explotación sexual.
+
 f) Sean dependientes de sustancias alcohólicas, estupefacientes o psicotrópicas u otras formas graves de fármaco dependencia que pudieren comprometer la salud, la seguridad o la moralidad de los hijos o hijas, aun cuando estos hechos no acarreen sanción penal para su autor o autora.
+
 g) Sean condenados o condenadas por hechos punibles cometidos contra el hijo o hija.
+
 h) Sean declarados entredichos o entredichas.
+
 i) Se nieguen a prestarles la obligación de manutención. 
+
 j) Inciten, faciliten o permitan que el hijo o hija ejecute actos que atenten contra su integridad física, mental o moral. 
 
 El juez o jueza atenderá a la gravedad, reiteración, arbitrariedad y habitualidad de los hechos.
@@ -2665,9 +3080,13 @@ La solicitud de restitución de la Patria Potestad debe estar fundada en la prue
 **Artículo 356**. La Patria Potestad se extingue en los siguientes casos:
 
 a) Mayoridad del hijo o hija.
+
 b) Emancipación del hijo o hija.
+
 c) Muerte del padre, de la madre, o de ambos.
+
 d) Reincidencia en cualquiera de las causal es de privación de la patria potestad, previstas en el artículo 352. de esta ley.
+
 e) Consentimiento legal para la adopción del hijo o hija, excepto cuando se trate de la adopción del hijo o hija por el otro cónyuge.
 
 En los casos previstos en los literales c), d) y e), la Patria Potestad puede extinguirse sólo respecto al padre o a la madre.
@@ -2725,7 +3144,9 @@ En caso de desacuerdo sobre una decisión de Responsabilidad de Crianza, entre e
 **Artículo 367**. La Obligación de Manutención procede igualmente, cuando:
 
 a) La filiación resulte indirectamente establecida, a través de sentencia firme dictada por una autoridad judicial.
+
 b) La filiación resulte de declaración explícita y por escrito del respectivo padre o de una confesión de éste, que conste en documento auténtico.
+
 c) A juicio del juez o jueza que conozca de la respectiva solicitud de alimentos, el vínculo filial resulte de un conjunto de circunstancias y elementos de prueba que, conjugados, constituyan indicios suficientes, precisos y concordantes.
 
 ##### Personas obligadas de manera subsidiaria.
@@ -2801,6 +3222,7 @@ No podrán decretarse la medida preventiva prevista en este artículo o deberán
 **Artículo 382**. El juez o jueza puede autorizar, a solicitud del obligado u obligada, oída la opinión del Ministerio Público y siempre que resulte manifiestamente favorable al interés superior del niño, niña y adolescentes, que el cumplimiento de la obligación se haga efectivo a través de otros medios, tales como:
 
 a) constitución de usufructo sobre un bien del obligado u obligada, el cual debe encontrarse libre de toda deuda y gravamen y totalmente saneado. En su condición de usufructuario o usufructuaria, el niño, niña o adolescente no queda sujeto a las obligaciones previstas por la ley para tales casos;
+
 b) designación del niño, niña o adolescente como beneficiario o beneficiaria de los intereses que produzca un determinado capital, o las utilidades, rentas o beneficios que produzcan acciones, participaciones y cualquier título valor.
 
 ##### Extinción
@@ -2808,6 +3230,7 @@ b) designación del niño, niña o adolescente como beneficiario o beneficiaria 
 **Artículo 383**. La Obligación de Manutención se extingue:
 
 a) Por la muerte del obligado u obligada o del niño, niña o adolescente beneficiario o beneficiaria de la misma;
+
 b) Por haber alcanzado la mayoridad el beneficiario o la beneficiaria de la misma, excepto que padezca discapacidades físicas o mentales que le impidan proveer su propio sustento, o cuando se encuentre cursando estudios que, por su naturaleza, le impidan realizar trabajos remunerados, caso en el cual la obligación puede extenderse hasta los veinticinco años de edad, previa aprobación judicial.
 
 ##### Competencia judicial
@@ -2903,10 +3326,15 @@ niño, niña o adolescente, de conformidad con lo establecido en esta Ley.
 **Artículo 395**. A los fines de determinar la modalidad de familia sustituta que corresponde a cada caso, el juez o jueza debe tener en cuenta lo siguiente:
 
 a) El niño, niña o adolescente debe ser oído u oída y su consentimiento es necesario si tiene doce años o más y no discapacidad mental que le impida discernir. 
+
 b) La conveniencia de que existan vínculos de parentesco, ya sea por consanguinidad o por afinidad, entre el niño, niña o adolescente y quienes pueden conformar la familia sustituta. 
+
 c) La responsabilidad de quien resulte escogido o escogida para desempeñarse como familia sustituta es personal e intransferible. 
+
 d) La opinión del equipo multidisciplinario. 
+
 e) La carencia de recursos económicos no puede constituir causal para descalificar a quien pueda desempeñarse eficazmente como familia sustituta. 
+
 f) La familia sustituta sólo podrá residir en el extranjero cuando la modalidad más conveniente para el niño, niña o adolescente sea la adopción, o cuando esté conformada por parientes del niño, niña o adolescente.
 
 #### Sección Segunda: Colocación familiar o en entidad de atención
@@ -2924,7 +3352,9 @@ Además de la Responsabilidad de Crianza, puede conferirse la representación de
 **Artículo 397**. La colocación familiar o en entidad de atención de un niño, niña o adolescente procede cuando:
 
 a) Transcurrido el lapso previsto en el artículo 127. de esta Ley, no se haya resuelto el asunto por vía administrativa.
+
 b) Sea imposible abrir o continuar la Tutela.
+
 c) Se haya privado a su padre y madre de la Patria Potestad o ésta se haya extinguido.
 
 ##### Protección de niños, niñas y adolescentes separados de su familia de origen
@@ -3103,9 +3533,13 @@ Los niños, niñas o adolescentes que tienen su residencia habitual en la Repúb
 **Artículo 414**. Para la adopción se requiere los consentimientos siguientes:
 
 a) De la persona a ser adoptada si tiene doce años o más.
+
 b) De quienes ejerzan la patria potestad y, en caso de ser ejercida por quien no hubiese alcanzado aún la mayoridad, debe estar asistido por su representante legal o, en su defecto, estar autorizado por el juez o jueza; la madre sólo puede consentir válidamente después de nacido el niño o niña.
+
 c) Del representante legal, en defecto de padres o madres que ejerzan la patria potestad.
+
 d) Del o de la cónyuge de la persona a ser adoptada, si éste es casado, a menos que exista separación legal entre ambos.
+
 e) Del o de la cónyuge del posible adoptante, si la adopción se solicita de manera individual, a menos que exista separación legal entre ambos.
 
 ##### Opiniones
@@ -3113,7 +3547,9 @@ e) Del o de la cónyuge del posible adoptante, si la adopción se solicita de ma
 **Artículo 415**. Para la adopción debe recabarse las opiniones siguientes:
 
 a) De la persona a ser adoptada si tiene menos de doce años.
+
 b) Del o de la fiscal del ministerio público.
+
 c) De los hijos o hija del solicitante de la adopción.
 
 Si el juez o jueza lo creyere conveniente podrá solicitar la opinión de cualquier otro pariente de la persona a ser adoptada o de un tercero que tenga interés en la adopción.
@@ -3171,9 +3607,13 @@ En el caso de las opciones internacionales, si el candidato o candidata a adopci
 **Artículo 426**. La adopción crea parentesco entre:
 
 a) El adoptado o adoptada y los y las integrantes de la familia del adoptante. 
+
 b) El o la adoptante y el o la cónyuge de la persona adoptada. 
+
 c) El o la adoptante y la descendencia futura de la persona adoptada. 
+
 d) El o la cónyuge de la persona adoptada y los integrantes de la familia del o de la adoptante. 
+
 e) Los integrantes de la familia del o de la adoptante y la descendencia futura de la persona adoptada.
 
 ##### Extinción de parentesco
@@ -3241,18 +3681,31 @@ El Ministerio Público tendrá acceso a los contenidos de los expedientes de ado
 **Artículo 450**. La normativa procesal en materia de protección de niños, niñas y adolescentes tiene como principios rectores, entre otros, los siguientes:
 
 a) <strong>Oralidad.</strong> El juicio es oral y sólo se admiten las formas escritas previstas en esta Ley.
+
 b) <strong>Inmediación.</strong> El juez o jueza que ha de pronunciar la sentencia debe presenciar el debate y la incorporación de las pruebas de las cuales obtiene su convencimiento salvo los casos que la Ley permita la comisión judicial para la evacuación de algún medio probatorio necesario para la demostración de los hechos controvertidos, pruebas que serán discutidas en la audiencia de juicio. Sólo se apreciarán las pruebas incluidas en la audiencia, conforme a las disposiciones de esta Ley.
+
 c) <strong>Concentración.</strong> Iniciado el debate, éste debe concluir en el mismo día. Si ello no fuere posible continuará durante el menor número de días consecutivos.
+
 d) <strong>Uniformidad.</strong> Las controversias que se susciten entre partes en reclamación de algún derecho se tramitan por los procedimientos contenidos en esta Ley, aunque por otra leyes tengan pautado un procedimiento especial.
+
 e) <strong>Medios alternativos de solución de conflictos.</strong> El juez o jueza debe promover, a lo largo del proceso, la posibilidad de utilizar los medios alternativos de solución de conflictos, tales como la mediación, salvo en aquellas materias cuya naturaleza no la permita o se encuentre expresamente prohibida por la ley.
+
 f) <strong>Publicidad.</strong> El juicio oral tiene lugar en forma pública, pero se debe proceder a puertas cerradas total o parcialmente, cuando así lo establezca la ley o determine el juez o jueza por motivos de seguridad, de moral pública o de protección de la personalidad de alguna de las partes o de alguna persona notificada para participar en él, según la naturaleza de la causa. La resolución será fundada y debe constar en el acta del debate. Desaparecida la causa de la clausura, puede ingresar nuevamente el público. Lo anterior no obsta el carácter público del expediente, el cual no puede ser objeto de reserva, salvo las excepciones establecidas en esta Ley.
+
 g) <strong>Simplificación.</strong> Los actos procesales son breves y sencillos, sin ritualismos ni formalismos innecesarios.
+
 h) <strong>Iniciativa y límites de la decisión</strong> . El juez o jueza sólo puede iniciar el proceso previa solicitud de parte, pero puede proceder de oficio cuando la ley lo autorice y en sus decisiones debe atenerse a lo alegado y probado en autos.
+
 i) <strong>Dirección e impulso del proceso por el juez o jueza.</strong> El juez o jueza dirige el proceso y debe impulsarlo de oficio hasta su conclusión.
+
 j) <strong>Primacía de la realidad.</strong> El juez o jueza debe orientar su función en la búsqueda de la Verdad e inquirirla por todos los medios a su alcance. En sus decisiones prevalecerá la realidad sobre las formas y apariencias.
+
 k) <strong>Libertad probatoria.</strong> En el proceso, las partes y el juez o jueza, pueden valerse de cualquier medio de prueba no prohibido expresamente por la ley y el juez o jueza lo apreciará según las reglas de la libre convicción razonada.
+
 l) <strong>Lealtad y probidad procesal.</strong> Las partes, sus apoderados, apoderadas, abogados y abogadas deben actuar en el proceso con lealtad y probidad. El juez o jueza debe tomar todas las medidas necesarias establecidas en la ley, tendentes a prevenir o a sancionar las faltas a estos deberes en el proceso.
+
 m) <strong>Notificación única.</strong> Realizada la notificación del demandado o demandada para la audiencia preliminar, las partes quedan a derecho, sin necesidad de nueva notificación para ningún otro acto del proceso, salvo los casos expresamente señalados en esta Ley.
+
 n) <strong>Defensa técnica gratuita.</strong> Las partes que así lo requieran contarán con asistencia o representación técnica gratuita en todo estado y grado de la causa a fin de garantizar la mejor defensa de sus derechos e intereses, a tal efecto las partes podrán solicitar los servicios de la Defensa Pública o el juez o jueza podrá designar a un Defensor Público o Defensora Pública cuando lo estime conducente.
 
 ##### Capacidad procesal de adolescentes
@@ -3282,6 +3735,7 @@ La audiencia preliminar se desarrolla en dos fases: la fase de mediación y la f
 **Artículo 455**. Los términos, lapsos y plazos de esta Ley se cuentan de la siguiente manera:
 
 a) Por años o meses serán continuos y terminarán el día equivalente del año o mes respectivo. El que deba cumplirse en un día que carezca el mes, se entenderá vencido el último día de ese mes.
+
 b) Establecidos por día, se contarán por días hábiles, salvo que la ley disponga que sean continuos.
 
 En todos los casos, los términos, lapsos y plazos que vencieran en día inhábil, se entenderán prorrogados hasta el primer día hábil siguiente.
@@ -3297,9 +3751,13 @@ La Dirección Ejecutiva de la Magistratura establecerá los horarios y días há
 **Artículo 456**. La demanda puede ser presentada en forma oral o escrita, con o sin la asistencia de abogado o abogada, y contendrá:
 
 a) Nombre, apellido y domicilio de la parte demandante y de la demandada.
+
 b) Si se demanda a una persona jurídica, los datos concernientes a su denominación, domicilio y los relativos al nombre y apellidos de cualquiera de sus representantes legales, estatuarios o judiciales.
+
 c) El objeto de la demanda, es decir, lo que se pide o reclama. 
+
 d) Una narrativa resumida de los hechos en que se apoye la demanda. 
+
 e) La dirección de la parte demandante y de la demandada y, de ser posible, su número telefónico y la dirección de correo electrónico.
 
 En caso de presentarse en forma oral, la demanda será reducida a un acta sucinta que comprenda los elementos esenciales ya mencionados. La parte actora debe presentar conjuntamente con la demanda los instrumentos fundamentales, esto es, aquellos de los cuales se derive inmediatamente el derecho deducido.
@@ -3367,13 +3825,21 @@ Adicionalmente, el juez o jueza debe solicitar inmediatamente a las autoridades 
 **Parágrafo Primero:** El juez o jueza puede ordenar, entre otras, las siguientes medidas preventivas:
 
 a) Medida de arraigo o prohibición de salida del país al niño, niña, adolescente, su padre, madre, representantes o responsables, o a terceras personas que ejerzan la Responsabilidad de Crianza.
+
 b) Restitución de la Custodia al padre, la madre o terceras personas que ejerzan la Responsabilidad de Crianza en caso de retención indebida del niño, niña o adolescente.
+
 c) Custodia provisional al padre, la madre o a un familiar del niño, niña o adolescente.
+
 d) Régimen de Convivencia Familiar provisional.
+
 e) Colocación familiar o en entidad de atención provisional durante el trámite del procedimiento de colocación familiar.
+
 f) Separación de la persona que maltrate un niño, niña o adolescente de su entorno.
+
 g) Retención del pasaporte del niño, niña o adolescente.
+
 h) Restitución de bienes o enseres del hogar propiedad del niño, niña o adolescente, de su madre o padre, para garantizar el derecho a un nivel de vida adecuado.
+
 i) Autorización para viajar en caso de extrema necesidad debidamente probada, para garantizar el derecho a la vida o salud del niño, niña o adolescente.
 
 **Parágrafo Segundo:** Las medidas preventivas también pueden ser solicitadas en forma previa al proceso y, en este caso, es obligación de la parte presentar la demanda respectiva dentro del mes siguiente a la resolución que decretó la medida. Para estos efectos no se exige garantía, pero si la demanda no se presentare o el juez o jueza determina infundada la solicitud, de ser procedente condenará al pago de los daños y perjuicios causados. Si no consta en autos la presentación de la demanda en el plazo previsto, se revocará la medida preventiva al día siguiente.
@@ -3400,13 +3866,16 @@ a) Ordenar al deudor o deudora de sueldos, salarios, pensiones, remuneraciones, 
 o dividendos de la parte demandada, que retenga la cantidad fijada y la entregue a la persona que 
 se indique. 
  
+
 b) Dictar  las medidas  preventivas  que considere convenientes, sobre el patrimonio  del obligado  u 
 obligada, someterlo a administración especial y fiscalizar el cumplimiento de tales medidas. 
  
+
 c)  Adoptar  las  medidas  que  juzgue  convenientes,  a  su  prudente  arbitrio,  sobre  el  patrimonio  del 
 obligado u obligada, por una suma equivalente a seis cuotas de manutención fijadas adelantadas o 
 más, a criterio del juez o jueza. 
  
+
 d) Decretar medida de prohibición de salida del país, siempre que no exista otro medio de asegurar 
 el  cumplimiento  de  la  obligación  de  manutención;  en  todo  caso,  esta  medida  se  suspenderá, 
 cuando  el  afectado  presente caución  o  fianza  que,  a  criterio  del  juez  o  jueza, sea  suficiente  para 
@@ -3715,6 +4184,7 @@ de la sentencia.
 **Artículo 489**. El recurso de casación puede proponerse:
 
 a) Contra las sentencias de última instancia que pongan fin a los juicios en materia patrimonial, cuyo interés principal exceda de cien salarios mínimos nacionales.
+
 b) Contra las sentencias de última instancia que pongan fin a los juicios en materia de estados familiares, capacidad de las personas y de establecimiento de un nuevo acto del estado civil. 
 
 Al proponerse el recurso contra la sentencia que puso fin al juicio, quedan comprendidas en él las interlocutorias que hubieren producido un gravamen no reparado por ella, siempre que contra dichas decisiones se hubieren agotado, oportunamente, todos los recursos ordinarios. No se concederá recurso de casación cuando se trate de pretensiones relativas a Responsabilidad de Crianza, Obligación de Manutención, Régimen de Convivencia Familiar, acciones de protección, colocación familiar y en entidades de atención e infracciones a la protección debida.
@@ -3896,6 +4366,7 @@ Consejo Nacional de Derechos de Niños, Niñas y Adolescentes o, ante el equipo 
 de un Tribunal de Protección de Niños, Niñas  y Adolescentes, por ambos progenitores o, por uno 
 de ellos cuando sólo existe un representante legal. 
  
+
 b) Mediante solicitud  para  adoptar formulada  por el o los aspirantes a la adopción, ante  la  oficina 
 estadal  de  adopciones  del  Consejo  Nacional  de  Derechos  de  Niños,  Niñas  y  Adolescentes  de  su 
 residencia habitual. La solicitud se debe hacer verbalmente y se debe recoger por un funcionario o 
@@ -3903,6 +4374,7 @@ funcionaria  de  la  correspondiente  oficina,  en  un  formulario  elaborado  a
 suscrito por el o los solicitantes; la misma debe acompañarse de toda la documentación probatoria 
 de los aspectos señalados en el artículo 421 de esta Ley. 
  
+
 c)  Mediante  requerimiento  formulado  por  un  jueza  o  jueza  de  mediación  y  sustanciación  a  la 
 respectiva oficina estadal de adopciones, para que seleccione a una persona o pareja del registro 
 de solicitantes de adopción elegibles. Dicha persona o pareja debe estar en concordancia con las 
@@ -4045,12 +4517,15 @@ a)  Que  dicha  persona  o  pareja  haya  estado  inscrita,  antes  y  al  momen
 correspondiente  medida  de  colocación  o  de  haber  acogido  al  niño,  niña  o  adolescente,  en  el 
 respectivo programa de familia sustituta. 
  
+
 b) Que se compruebe  la inviabilidad o imposibilidad del restablecimiento de los  vínculos  del niño, 
 niña o adolescente con su familia de origen, y que la familia sustituta no ha obstaculizado, en modo 
 alguno, la reintegración familiar de dicho niño, niña o adolescente. 
  
+
 c) Que hayan transcurrido dos años desde la fecha en que se inició la colocación. 
  
+
 d) Que la evaluación bio-psico-social-legal realizada por la correspondiente oficina de adopciones, 
 sea favorable. 
  
@@ -4082,9 +4557,11 @@ los solicitantes, a objeto de certificar su idoneidad para adoptar. Esta evaluac
 a) Asistencia a  los cursos  de formación  y  orientación de familia sustituta, sea  en la modalidad de 
 adopción nacional o en la modalidad de adopción internacional, según el caso. 
  
+
 b) Entrevistas con los profesionales del equipo técnico interdisciplinario de la respectiva oficina de 
 adopciones. 
  
+
 c)  Evaluación  psiquiátrica  o  psicológica,  social,  así  como  del  contenido  del  informe  médico 
 correspondiente y de los documentos legales que acompañan la solicitud. 
  
@@ -4302,14 +4779,23 @@ Adolescentes, da inicio a la fase judicial de la misma.
 **Artículo 494**. En la solicitud de adopción se debe expresar:
 
 a) Identificación del o de los solicitantes y señalamiento de su fecha de nacimiento, nacionalidad, profesión u ocupación, lugar de residencia habitual y estado civil.
+
 b) Indicación, cuando se trate de adopción conjunta, de la fecha de matrimonio de los solicitantes o, de ser el caso, de la fecha de inicio de la respectiva unión estable de hecho; y si se trata de una adopción individual por persona casada o con una unión estable de hecho, habrá igualmente que señalar la fecha del matrimonio o del inicio de dicha unión, la identificación completa del o la cónyuge o de la persona con quien mantiene una unión estable de hecho, su nacionalidad, fecha de nacimiento, profesión u ocupación, y residencia habitual de éste o ésta.
+
 c) Identificación de cada uno de los niños, niñas o adolescentes por adoptar y señalamiento de sus respectivas fechas de nacimiento, nacionalidad y residencia habitual; si se solicita la modificación del nombre propio de uno o más de estos niños, niñas o adolescentes, se indicará el o los nombres que sustituirán a los anteriores.
+
 d) Indicación del vínculo de parentesco, consanguíneo o de afinidad, entre el o los solicitantes y el niño, niña o adolescente a adoptar o, la mención de que no existe ningún vínculo de éstos entre ellos.
+
 e) Indicación, cuando se trate de la adopción de un o una adolescente casado o casada, de fecha del matrimonio, identificación completa del o la cónyuge, de su residencia habitual y, si existe separación legal entre ambos, la fecha de la sentencia o del decreto respectivo.
+
 f) Indicación, si el o los solicitantes tuviesen descendencia consanguínea o adoptiva, la identificación de cada uno de los descendientes y señalamiento de su fecha de nacimiento, y de su residencia habitual.
+
 g) Indicación de cada una de las personas que deben consentir o que han consentido en la adopción, con indicación del vínculo familiar o del cargo o relación jurídica que tienen, con respecto a la persona o personas por adoptar. Si alguna de esas personas estuviese impedida de consentir la adopción solicitada, se indicará esa circunstancia así como su causa.
+
 h) Indicación de si se solicita la adopción de un niño, niña o adolescente que se encuentre en el supuesto del artículo 412. de esta Ley.
+
 i) Indicación, cuando el solicitante de la adopción haya sido Tutor o Tutora del niño, niña o adolescente a adoptar, de si le han sido o no aprobadas las cuentas definitivas de la Tutela.
+
 j) Cualquier otra circunstancia que se considere pertinente o de interés.
 
 La documentación relacionada con los aspectos señalados en este artículo, debe haber sido remitida al Tribunal de protección de Niños, Niñas y Adolescentes que está conociendo del caso, por la respectiva oficina de adopciones.
@@ -4385,8 +4871,11 @@ El decreto de adopción surte efectos desde la fecha en que queda firme, pero no
 **Artículo 509**. La adopción es nula cuando se decreta:
 
 a) En violación de disposiciones referidas a la capacidad, impedimentos o consentimientos previstos en los artículos 408. al 414. de esta Ley, ambos inclusive.
+
 b) Con infracción de las normas sobre emparentamiento y período de prueba, establecidas en los artículos 493-N, 493-O y 493-P de esta Ley.
+
 c) Con algún error en el consentimiento sobre la identidad del adoptante o del adoptado o adoptada.
+
 d) En violación de cualquier otra disposición de orden público.
 
 La acción de nulidad de adopción sólo puede ser intentada directamente por el adoptado o adoptada, si tiene más de 12. años de edad, el o la representante legal del adoptado o adoptada; por el Ministerio Público y por quienes puedan hacer oposición a la adopción. En el caso previsto en el literal c) de este artículo, la acción sólo puede intentarla la persona cuyo consentimiento estuvo viciado o, sus herederos, si el lapso para ejercer la acción no hubiere expirado.
@@ -4503,10 +4992,14 @@ el Poder Popular, orientadas a su protección integral y su incorporación progr
 integral y su incorporación progresiva a la ciudadanía, debe contar con los siguientes medios: 
  
 a) Políticas, programas y medidas socio-educativas de atención e inclusión social con la familia, escuela y el Poder Popular.
+
 b) Órganos administrativos y judiciales.
+
 c) Unidad de formación socio-educativa e integral para los y las adolescentes con medidas no privativas de libertad.
 d. Entidades de atención y formación socio-educativa e integral para los y las adolescentes con medidas privativas de libertad.
+
 e) Personal especializado. 
+
 f) Recursos económicos.
 
 ##### Integrantes
@@ -4514,18 +5007,31 @@ f) Recursos económicos.
 **Artículo 527**. El Sistema Penal de Responsabilidad de los y las Adolescentes está integrado por:
 
 a) Sala Constitucional del Tribunal Supremo de Justicia.
+
 b) Sala de Casación Penal del Tribunal Supremo de Justicia.
+
 c) Sección de adolescentes del tribunal penal.
+
 d) Ministerio Público especializado.
+
 e) Ministerio del Poder Popular con competencia en materia de protección integral de niños, niñas y adolescentes.
+
 f) Ministerio del Poder Popular con competencia en materia de relaciones interiores, justicia y paz.
+
 g) Ministerio del Poder Popular con competencia en materia de servicio penitenciario, para la atención a los y las adolescentes en conflicto con la ley penal.
+
 h) Ministerio del Poder Popular con competencia en materia de juventud.
+
 i) Ministerio del Poder Popular con competencia en materia de educación.
+
 j) Servicio Autónomo de la Defensa Pública especializada.
+
 k) Policía de Investigación y servicios de policías especializadas.
+
 l) Defensoría del Pueblo.
+
 m) Consejos Comunales y demás formas de organización popular.
+
 n) Las autoridades legítimas de los pueblos y las comunidades indígenas en los procesos en que sean partes los y las adolescentes indígenas
 
 ##### Atribuciones de los consejos comunales.
@@ -4842,9 +5348,13 @@ jueza de control decretará una medida que no genere privación de libertad.
 Finalizada la investigación, el o la fiscal del Ministerio Público deberá:
 
 a) Ejercer la acción penal pública, presentando acusación, si estima que la investigación proporciona fundamento suficiente;
+
 b) Solicitar la suspensión del proceso a prueba, cuando se haya logrado un preacuerdo conciliatorio entre las partes;
+
 c) Solicitar la remisión en los casos que proceda;
+
 d) Solicitar el sobreseimiento definitivo si resulta evidente la falta de una condición necesaria para imponer la sanción;
+
 e) Solicitar el sobreseimiento provisional cuando resulte insuficiente lo actuado y no exista posibilidad inmediata de incorporar nuevos elementos que permitan el ejercicio de la acción.
 
 El Ministerio Público procurará dar término a la fase preparatoria con la diligencia que el caso
@@ -4918,13 +5428,17 @@ las obligaciones pactadas y el plazo para su cumplimiento.
 La resolución que acuerde suspender el proceso a prueba debe contener: 
  
 a) Fundamentos de hecho y de derecho de la suspensión; 
+
 b) Datos generales del o la adolescente, hechos que se le atribuye, su calificación legal y la posible 
 sanción; 
+
 c) Obligaciones pactadas y el plazo para su cumplimiento; 
+
 d) Advertencia al o la adolescente o representantes legales de que cualquier cambio de residencia, 
 domicilio,  lugar  de  trabajo  o  instituto  educacional,  deberá  ser  comunicado  al  o  la  fiscal  del 
 Ministerio  Público  y  al  ente  ejecutor  de  los  programas,  Consejo  Comunal  donde  se  encuentre 
 cumpliendo con la medida de la conciliación. 
+
 e) Orden de incorporación a los programas de prevención e inclusión social, previstos en el artículo 
 124  de  esta  Ley,  los  cuales  deberán  ser  ejecutados  por  entes  públicos  o  por  los  Consejos 
 Comunales u otras organizaciones sociales, quienes deberán informar en el plazo establecido por 
@@ -4953,10 +5467,13 @@ juicio,  o  se  limite  éste  a  una  o  varias  infracciones  menores,  o  só
 partícipes, cuando: 
  
 a) Se trate de un hecho insignificante o de una participación mínima. 
+
 b) El o la adolescente colabore eficazmente con la investigación, brinde información esencial para 
 evitar  la  perpetración  o  consumación  de  otros  hechos  conexos,  ayude  a  su  esclarecimiento,  o 
 brinde información útil para probar la participación de otras personas. 
+
 c) El o la adolescente haya sufrido, a consecuencia del hecho, un daño físico o moral grave. 
+
 d)  La  sanción  que  se  espera  por  el  hecho,  de  cuya  persecución  se  prescinde,  carezca  de 
 importancia  en  consideración  a  la  sanción  ya  impuesta o  a  la  que  cabe  esperar  por  los  restantes 
 hechos. 
@@ -4983,11 +5500,17 @@ conformidad con los supuestos antes señalados.
 **Artículo 570**. La acusación debe contener: 
  
 a) Identificación plena y residencia del o la adolescente acusado o acusada. 
+
 b)  Relación  de  los  hechos  imputados  con  indicación,  si  es  posible,  del  tiempo,  modo  y  lugar  de ejecución. 
+
 c) Indicación y aporte de los medios de prueba recogidos en la investigación. 
+
 d)  Expresión  precisa  de  la  calificación  jurídica  objeto  de  la  imputación  con  indicación  de  las disposiciones legales aplicables. 
+
 e)  Solicitud  de  la  medida  cautelar  para  asegurar  la  comparecencia  a  juicio  del  imputado  o  la imputada. 
+
 f) Ofrecimiento de los medios de prueba que se presentarán en juicio. 
+
 g) Indicación de la sanción que solicita, su idoneidad y proporcionalidad.
 
 ##### Audiencia preliminar
@@ -5003,13 +5526,21 @@ g) Indicación de la sanción que solicita, su idoneidad y proporcionalidad.
 **Artículo 573**. Dentro del plazo lijado para la celebración de la audiencia preliminar, las partes podrán manifestar por escrito lo siguiente:
 
 a)  Señalar los vicios formales o la falta de fundamento de la acusación. 
+
 b)  Oponer excepciones. 
+
 c)  Solicitar el sobreseimiento. 
+
 d)  Proponer acuerdo conciliatorio. 
+
 e)  Solicitar la imposición, revocación o sustitución de una medida cautelar. 
+
 f)  Solicitar la práctica de una prueba anticipada. 
+
 g)  Solicitar la imposición inmediata de la sanción en caso de admisión de hechos. 
+
 h)  Plantear cualquier otra cuestión incidental que permita una mejor preparación del debate. 
+
 i)  Ofrecer los medios de prueba necesarios para resolver las cuestiones propias de la audiencia preliminar.
 
 El adolescente imputado o adolescente imputada y su defensor o defensora deberán, además, proponerla prueba que presentarán en el juicio.
@@ -5040,10 +5571,15 @@ reciba declaración, la que será tomada con las formalidades previstas.
 **Artículo 578**. Finalizada la audiencia, el juez o jueza resolverá todas las cuestiones planteadas y en su caso:
 
 a)  Admitirá, total o parcialmente, la acusación del Ministerio Público o del o de la querellante y ordenará el enjuiciamiento del imputado o imputada. Si la rechaza totalmente sobreseerá.
+
 b)  Ordenará la corrección de los vicios formales de la acusación del Ministerio Público o del o de la querellante.
+
 c)  Resolverá las excepciones y las cuestiones previas.
+
 d)  Homologará los acuerdos conciliatorios procediendo según el artículo 566. de esta Ley.
+
 e)  Ratificará, revocará, sustituirá o impondrá medidas cautelares.
+
 f)  Sentenciará conforme al procedimiento por admisión de los hechos.
 
 ##### Auto de enjuiciamiento
@@ -5051,13 +5587,21 @@ f)  Sentenciará conforme al procedimiento por admisión de los hechos.
 **Artículo 579**. La decisión por la cual el Juez o Jueza de Control admite la acusación del Ministerio Público o del o de la querellante y ordena el enjuiciamiento del imputado o imputada, contendrá:
 
 a)  La admisión de la acusación, con la descripción precisa del hecho objeto del juicio y de los acusados o acusadas.
+
 b)  Las modificaciones introducidas al admitir la acusación, con la indicación detallada de las circunstancias de hecho extraídas o agregadas.
+
 c)  Cuando la acusación ha sido interpuesta por varios hechos y el juez o jueza sólo la admite parcialmente, determinará con precisión los hechos por los que enjuicia al imputado o imputada y, la resolución de lo que corresponda respecto de los otros hechos.
+
 d)  Las modificaciones en la calificación jurídica del hecho punible, cuando se aparte de la acusación.
+
 e)  La identificación de las partes.
+
 f)  Las pruebas admitidas y el fundamento de las no admitidas.
+
 g)  La procedencia o rechazo de las medidas cautelares o su sustitución, disponiendo, en su caso, la libertad del imputado o imputada.
+
 h)  La intimación a todas las partes, para que, en el plazo común de cinco días, contados a partir de la remisión de las actuaciones, concurran ante el tribunal del juicio.
+
 i)  La orden de remitir las actuaciones al tribunal del juicio.
 
 Este auto se notificará por su lectura.
@@ -5307,14 +5851,23 @@ adolescente.
 **Artículo 602**. Procederá la absolución cuando la sentencia reconozca:
 
 a)  Estar probada la inexistencia del hecho.
+
 b)  No haber prueba de la existencia del hecho.
+
 c)  No constituir el hecho una conducta tipificada.
+
 d)  Estar probado que el o la adolescente acusado no participó en el hecho.
+
 e)  No haber prueba de su participación.
+
 f)  Estar justificada su conducta.
+
 g)  No haber comprendido el o la adolescente la ilicitud de su conducta o no haber estado en posesión de opciones de comportamiento lícito.
+
 h)  La concurrencia de una causal de exclusión de la culpabilidad o de la pena.
+
 i)  La existencia de una causal de extinción o caducidad de la acción penal.
+
 j)  Cualesquiera de las causales que hubieran hecho procedente la remisión.
 
 La sentencia absolutoria ordenará la libertad del acusado, la cesación de las restricciones impuestas provisionalmente, y resolverá sobre las costas. La libertad se hará efectiva directamente en la sala de audiencias.
@@ -5460,6 +6013,7 @@ Por el imputado o imputada podrá recurrir su defensor o defensora, pero no cont
 **Artículo 610**. Se admite recurso de casación únicamente contra las sentencias del Tribunal Superior que:
 
 a) Pronuncien la condena, siempre que la sanción impuesta sea privación de libertad.
+
 b) Pronuncien la condena, siempre que el tribunal de juicio hubiese condenado por alguno de los hechos punibles para los cuales es admisible la sanción de privación de libertad.
 
 En el primer caso, sólo podrán recurrir el imputado o imputada y su defensor o defensora, y en el segundo el o la Fiscal del Ministerio Público.
@@ -5692,15 +6246,19 @@ de los demás que le puedan favorecer:
 a) Ser mantenido, preferentemente, en  su medio familiar si éste reúne las condiciones requeridas 
 para su desarrollo. 
  
+
 b) A un trato digno y humanitario. 
  
+
 c) A recibir información sobre el programa en el cual esté inserto, sobre las etapas previstas para el 
 cumplimiento de la medida; así como sobre sus derechos en relación a las personas o funcionarios 
 que lo tuvieren bajo su responsabilidad. 
  
+
 d) A recibir los servicios de salud, sociales y educativos adecuados a su edad y necesidades, y a 
 que aquellos sean proporcionados por personas con la formación profesional idónea. 
  
+
 e) A  comunicarse  reservadamente  con  su  defensor  o  defensora,  con  el  o  la  fiscal  del  ministerio 
 público y con el juez o jueza de ejecución. 
  
@@ -5708,9 +6266,11 @@ público y con el juez o jueza de ejecución.
 f) A  presentar  peticiones  ante  cualquier  autoridad  y  a  que  se  le  garantice  la  respuesta  y, 
 especialmente, a promover incidencias ante el juez o jueza de ejecución. 
  
+
 g) A  comunicarse  libremente  con  sus  padres,  madres,  representantes  o  responsables,  salvo 
 prohibición expresa del juez o jueza. 
  
+
 h) A que su familia sea informada sobre los derechos que a ella le corresponden, y respecto de la 
 situación y los derechos del o de la adolescente.
 
@@ -5968,8 +6528,11 @@ Los reglamentos internos deberán ser revisados y aprobados por el órgano recto
 El registro debe consignar respecto de cada uno de los y las adolescentes admitidos lo siguiente:
 
 a) Datos personales.
+
 b) Día y hora de ingreso, así como la del traslado o salida.
+
 c) El motivo del internamiento, y la autoridad que lo ordena.
+
 d) Detalles de la notificación de cada ingreso, traslado o liberación del adolescente a sus padres, madres, representantes o responsables.
 
 ##### Expediente
@@ -6155,15 +6718,25 @@ adolescentes.
 **Artículo 654**. Todo adolescente señalado o señalada como presunto autor o participe de un hecho punible tiene derecho, desde el primer acto de procedimiento, a:
 
 a) Que se le informe de manera específica y clara sobre los hechos que se le imputa y la autoridad responsable de la investigación. 
+
 b) Comunicarse en privado con sus padres, representantes o responsables; con un abogado, abogada, persona o asociación de su confianza, para informar sobre su detención. 
+
 c) Ser asistido por un defensor o defensora nombrado por él o ella, sus padres, madres, representantes o responsables y, en su defecto, por un defensor público o defensora pública. 
+
 d) Ser asistido gratuitamente por un o una intérprete, si no comprende o habla el idioma castellano. 
+
 e) Solicitar al ministerio público la práctica de las diligencias de investigación destinadas a desvirtuar las imputaciones que se le formulen. 
+
 f) Presentarse directamente ante el juez o jueza con la finalidad de rendir declaración. 
+
 g) Solicitar que se active la investigación y a conocer su contenido. 
+
 h) Solicitar que se declare la improcedencia de la prisión preventiva o su cese. 
+
 i) No ser obligado u obligada a declarar y, en caso de querer hacerlo, que sea sin juramento, libre de coacción o apremio y en presencia de su defensor o defensora. 
+
 j) No ser sometido o sometida a técnicas o métodos que induzcan o alteren su libre voluntad, aun con su consentimiento, ni a tortura u otros tratos crueles, inhumanos o degradantes. 
+
 k) No ser juzgado o juzgada en ausencia.
 
 Se entenderá por primer acto de procedimiento cualquier indicación policial, administrativa, del Ministerio Público o judicial que señale a un o una adolescente como posible autor, autora o partícipe de un hecho punible.
@@ -6209,8 +6782,11 @@ El imputado o imputada podrá nombrar hasta tres defensores o defensoras, quiene
 **Artículo 661**. Se considera víctima:
 
 a) Al directamente ofendido u ofendida por hecho punible. 
+
 b) Al o la cónyuge o la persona con quien haga vida marital, al hijo, hija, padre o madre adoptivo, a los parientes dentro del cuarto grado de consanguinidad o segundo de afinidad y al heredero u heredera, en los delitos cuyo resultado sea la muerte del ofendido u ofendida o, su incapacidad. 
+
 c) A los socios, socias, asociados, asociadas o integrantes, respecto de los delitos que afecta a la respectiva persona jurídica. 
+
 d) A las asociaciones, fundaciones y otros entes legalmente constituidos, en los delitos que afecten intereses colectivos o difusos, siempre que el objeto de la agrupación se vincule directamente con esos intereses.
 
 ##### Derechos de la víctima
@@ -6285,6 +6861,7 @@ apelación, integradas por tres jueces o juezas.
 **Artículo 670**. La Sección de Adolescentes del Tribunal Penal contará con:
 
 a) Equipos multidisciplinarios o presupuesto para servirse de ellos. 
+
 b) Una sala de estaciones y notificaciones
 
 ##### Dotación
@@ -6321,9 +6898,13 @@ sus funciones.
 A las causas que se encuentren en primera instancia, se le aplicarán las siguientes reglas:
 
 a) Todas aquellas causas en donde no se hubiese dado contestación al fondo de la demanda serán remitidas al juez o jueza de mediación y sustanciación, y se tramitarán de conformidad con las normas de esta Ley. 
+
 b) Todas aquellas causas que se han estado tramitando conforme al procedimiento contencioso en asuntos de familia y patrimoniales y al procedimiento judicial de protección, en los cuales se haya contestado al fondo la demanda, se continuarán tramitando de conformidad con las normas de esta Ley, con prescindencia de la fase de mediación de la audiencia preliminar. 
+
 c)  Todas las demás causas que se han estado tramitando conforme a cualquier procedimiento, en donde se haya contestado al fondo de la demanda y esté vencido o por vencerse el término probatorio, se continuarán tramitando hasta la sentencia de primera instancia, conforme con lo establecido en la Ley Orgánica para la Protección del Niño y del Adolescente vigente antes de la presente Ley, o el Código de Procedimiento Civil, según corresponda. En estos casos, la sentencia debe ajustarse a los requisitos establecidos en el artículo 485. de esta Ley. 
+
 d) Los procedimientos judiciales de adopción que se han estado tramitando conforme a lo establecido en la Ley Orgánica para la Protección del Niño y del Adolescente vigente antes de esta Ley, se continuarán tramitando conforme con lo establecido en la Ley Orgánica para la Protección del Niño y del Adolescente vigente antes de esta Ley. 
+
 e) Cuando se encuentren en estado de sentencia y no se hubiere pronunciado la decisión en el lapso fijado para ello, el fallo se pronunciará dentro de los treinta días siguientes a la entrada en vigencia de esta Ley. En estos casos, la sentencia debe ajustarse a los requisitos establecidos en el artículo 485. de esta Ley.
 
 **Artículo 682**. La sentencia definitiva podrá ser apelada dentro de los cinco días hábiles siguientes a su publicación o notificación. De la apelación conocerá el correspondiente juez o jueza superior, aplicando el procedimiento previsto en esta Ley. Contra dicha sentencia se admitirá recurso de casación aplicándose el procedimiento previsto en la presente Ley.
