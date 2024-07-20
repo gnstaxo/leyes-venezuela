@@ -51,6 +51,9 @@ b) Asignación privilegiada y preferente, en el presupuesto, de los recursos pú
 c) Precedencia de los niños, niñas y adolescentes en el acceso y la atención a los servicios públicos.
 d) Primacía de los niños, niñas y adolescentes en la protección y socorro en cualquier circunstancia.
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 ##### Interés Superior del Niños, Niñas y Adolescentes
 
 **Artículo 8**. El Interés Superior del Niños, Niñas y Adolescentes es un principio de interpretación y aplicación de esta Ley, el cual es de obligatorio cumplimiento en la toma de todas las decisiones concernientes a los niños, niñas y adolescentes. Este principio está dirigido a asegurar el desarrollo integral de los niños, niñas y adolescentes, así como el disfrute pleno y efectivo de sus derechos y garantías.
